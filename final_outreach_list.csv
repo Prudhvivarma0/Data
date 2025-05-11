@@ -1,501 +1,501 @@
-customer_id,P_buy,P_service,CreditRisk,P_upsell,CLV_12m,LeadScore,cluster,segment,next_action,offer_text,discount_pct
-001,0.02,0.234570288,0.304401857,0.06,8765.09225,-0.014772043,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-002,0,1.56E-09,0.393933175,0,2.12E-05,-0.078786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-003,0.81,0.203021287,0.419746104,1,228667.1483,0.557228165,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-004,0.88,0.567413669,0.327099875,1,253141.1113,0.655321392,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-005,0.8,0.787502378,0.443933175,1,233819.4792,0.614099949,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-006,0.03,0.920044415,0.443933175,0.09,20867.60525,0.046576024,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-007,0.02,0.332871084,0.343933175,0.02,10100.70225,-0.0152252,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-008,0.03,0.277112052,0.222025025,0.12,12132.10229,0.019049075,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-009,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-010,0.04,0.778800783,0.284837075,0.06,21737.52856,0.065328007,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-011,0.01,0.172811209,0.343933175,0.04,5136.97713,-0.038263083,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-012,0.01,1.56E-09,0.443933175,0,2788.996368,-0.082397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-013,0.02,1.56E-09,0.343933175,0,5577.992715,-0.056008284,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-014,0,1.56E-09,0.360719047,0,2.12E-05,-0.072143809,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-015,0.01,0.361798929,0.691985021,0.03,7704.747677,-0.086854338,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-016,0.03,0.347999041,0.371952641,0.09,13095.2417,-0.005677347,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-017,0.03,0.224373222,0.350492041,0.045,11415.54136,-0.020288973,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-018,0.87,0.351887258,0.343933175,0.87,247423.7639,0.614402091,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-019,0.05,1.56E-09,0.343933175,0,13944.98176,-0.036840758,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-020,0.03,0.289705935,0.265432041,0.09,12303.21499,0.008834995,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-021,0,1.56E-09,0.335084241,0,2.12E-05,-0.067016848,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-022,0,0.304559476,0.343933175,0,4138.040573,-0.03330216,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-023,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-024,0.02,1.56E-09,0.343933175,0,5577.992715,-0.056008284,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-025,0.03,1.56E-09,0.343933175,0,8366.989062,-0.049619109,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-026,0.02,0.787502378,0.384031675,0.05,16277.76418,0.032724566,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-027,0.05,0.136089238,0.296584075,0.1,15794.02219,-0.001515069,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-028,0.02,0.153781545,0.287152658,0.02,7667.417992,-0.024734966,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-029,0.03,0.493834146,0.429805925,0.06,15076.69895,-0.003256636,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-030,0.43,1.56E-09,0.343933175,0,119926.8429,0.205947908,3,Potential New Buyers,Trade-In Offer,VIP Perks (0% off),0
-031,0.02,1.56E-09,0.343933175,0,5577.992715,-0.056008284,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-032,0,1.56E-09,0.229838397,0,2.12E-05,-0.045967679,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-033,0.04,1.56E-09,0.509754441,0,11155.98541,-0.076394186,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-034,0.05,0.94071871,0.401035925,0.175,26726.49898,0.078842604,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-035,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-036,0.04,1.56E-09,0.381094538,0,11155.98541,-0.050662206,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-037,0.01,0.2182264,0.343933175,0.01,5754.031982,-0.035971722,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-038,0.07,0.499351789,0.461883929,0.035,26307.65239,0.01402733,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-039,0.01,1.56E-09,0.393933175,0,2788.996368,-0.072397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-040,0.13,0.256375757,0.420760028,0.325,39740.32232,0.061277825,0,High-Value Buyers,Trade-In Offer,VIP Perks (0% off),0
-041,0,0.346071073,0.323890275,0,4702.057421,-0.024457029,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-042,0,0.51057271,0.345931152,0,6937.13629,-0.009698984,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-043,0,1.56E-09,0.279086121,0,2.12E-05,-0.055817224,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-044,0.02,1,0.352176974,0.06,19164.96307,0.064853779,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-045,0.01,0.399849654,0.208546851,0.04,8221.741757,0.015266618,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-046,0.86,0.516277374,0.377266508,1,246868.3312,0.634167686,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-047,0.03,0.332871084,0.343933175,0.09,12889.6986,-0.001836025,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-048,0,0.277112052,0.395169441,0,3765.113248,-0.046747335,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-049,0.01,0.137609773,0.346133825,0.01,4658.696253,-0.045804562,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-050,0.07,1.56E-09,0.466411256,0,19522.97445,-0.048558023,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-051,0.02,1.56E-09,0.246706197,0,5577.992715,-0.036562888,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-052,0,0.655588337,0.232342015,0,8907.459315,0.029914734,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-053,0,0.459425824,0.343933175,0,6242.205063,-0.015258554,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-054,0.11,0.708613919,0.343933175,0.33,40306.87614,0.117055486,0,High-Value Buyers,Service Appointment,VIP Perks (0% off),0
-055,0.81,0.242521075,0.388040975,1,229203.8308,0.568171344,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-056,0.04,1.56E-09,0.311672068,0,11155.98541,-0.036777712,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-057,0.05,0.231978378,0.513821128,0.1,17096.86508,-0.033790357,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-058,0.09,0.66291327,0.310915325,0.18,34107.95009,0.090556085,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-059,0.07,0.275576809,0.287831672,0.14,23267.22838,0.033265574,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-060,0.18,0.648344341,0.377266508,0.72,59010.9696,0.187090989,0,High-Value Buyers,Service Appointment,VIP Perks (0% off),0
-061,0.02,0.914947229,0.343933175,0.02,18009.35359,0.052592971,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-062,0.03,0.376146051,0.343933175,0.09,13477.67429,0.003205977,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-063,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-064,0,1.56E-09,0.377266508,0,2.12E-05,-0.075453301,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-065,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-066,0.02,0.770195338,0.410882335,0.02,16042.61393,0.022337977,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-067,0,0.329192988,0.386203321,0,4472.735375,-0.038886118,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-068,0,0.336590275,0.362903375,0,4573.242099,-0.033364265,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-069,0.04,0.787502378,0.414737872,0.14,21855.75687,0.048361678,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-070,0.02,0.320174574,0.343933175,0.08,9928.195144,-0.010704481,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-071,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-072,0.14,0.275576809,0.364649777,0.49,42790.20281,0.097626181,0,High-Value Buyers,Trade-In Offer,VIP Perks (0% off),0
-073,0.02,0.296215909,0.239366346,0.06,9602.669482,0.005417441,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-074,0,0.685382791,0.343933175,0,9312.275681,0.011067878,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-075,0.01,0.150401868,0.343933175,0.03,4832.502079,-0.041874014,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-076,0,0.951229425,0.343933175,0,12924.32602,0.042041888,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-077,0.75,1.56E-09,0.393933175,0,209174.7261,0.400401522,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-078,0.02,1.56E-09,0.343933175,0,5577.992715,-0.056008284,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-079,0.03,0.185753764,0.206069098,0.06,10890.81993,0.005596031,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-080,0.04,0.644752415,0.247682122,0.08,19916.21735,0.059140912,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-081,0.03,0.230693182,0.343933175,0.03,11501.41048,-0.019740856,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-082,0.02,0.434598209,0.343933175,0.06,11482.86568,0.000627111,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-083,0.84,0.196365457,0.480730602,1,236943.7048,0.563423316,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-084,0.81,1.56E-09,0.343933175,0,225908.7041,0.448736574,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-085,0.09,0.429796067,0.225669525,0.18,30940.59356,0.080444568,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-086,0.01,1.56E-09,0.342633459,0,2788.996368,-0.062137516,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-087,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-088,0.03,0.301194212,0.339031698,0.015,12459.30588,-0.012046428,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-089,0.04,1.56E-09,0.28107259,0,11155.98541,-0.030657816,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-090,0,0.158113137,0.259238804,0,2148.278511,-0.033425869,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-091,0.03,0.220664659,0.343933175,0.09,11365.15322,-0.014909288,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-092,0.02,0.677809578,0.254297861,0.02,14787.37135,0.042890931,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-093,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-094,0,0.156366049,0.401996655,0,2124.54087,-0.062180994,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-095,0.03,1.56E-09,0.393933175,0,8366.989062,-0.059619109,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-096,0,1.56E-09,0.275170875,0,2.12E-05,-0.055034175,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-097,0.01,0.219442143,0.490758497,0.04,5770.550244,-0.062195139,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-098,0.04,0.197459412,0.419779025,0.16,13838.86058,-0.019392945,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-099,0.04,0.66291327,0.429369255,0.04,20162.96836,0.020919422,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-100,0,1.56E-09,0.487547087,0,2.12E-05,-0.097509417,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-101,0.02,0.783139495,0.343933175,0.01,16218.48581,0.036235943,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-102,0.03,1.56E-09,0.343933175,0,8366.989062,-0.049619109,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-103,0.02,0.58664622,0.343933175,0.04,13548.7375,0.01634235,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-104,0.86,0.29952555,0.343933175,0.86,243923.3306,0.601580419,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-105,0.01,1.56E-09,0.225514575,0,2788.996368,-0.038713739,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-106,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-107,0.01,1.56E-09,0.383688086,0,2788.996368,-0.070348442,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-108,0.01,0.183701257,0.343933175,0.015,5284.939884,-0.039494275,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-109,0,1.56E-09,0.364888491,0,2.12E-05,-0.072977698,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-110,0.81,1.56E-09,0.343933175,0,225908.7041,0.448736574,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-111,0.01,1.56E-09,0.348441215,0,2788.996368,-0.063299067,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-112,0.1,0.716531311,0.343933175,0.05,37625.45316,0.083588772,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-113,0.04,0.344153787,0.257620908,0.14,15831.9927,0.028130161,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-114,0.01,0.68920107,0.343933175,0.02,12153.15087,0.019901925,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-115,0.12,0.318400758,0.343933175,0.24,37794.05783,0.068980605,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-116,0.82,0.266542327,0.322859195,0.82,232319.2032,0.572395611,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-117,0,0.961857576,0.343933175,0,13068.7304,0.043280183,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-118,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-119,0.03,1.56E-09,0.296945875,0,8366.989062,-0.040221649,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-120,0.03,0.265065642,0.209182925,0.03,11968.42807,0.011213957,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-121,0,0.50774406,0.262845594,0,6898.7035,0.00658856,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-122,0.04,0.899824481,0.462691491,0.12,23381.87396,0.049857695,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-123,0,1.56E-09,0.393933175,0,2.12E-05,-0.078786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-124,0,0.930324134,0.326195369,0,12640.28645,0.043153757,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-125,0,0.286504797,0.364716725,0,3892.732189,-0.039562435,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-126,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-127,0.01,0.224373222,0.439572475,0.02,5837.548667,-0.053383411,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-128,0.55,0.60653066,0.423462981,0.55,161635.7132,0.392379438,3,Potential New Buyers,Service Appointment,VIP Perks (0% off),0
-129,0,1.56E-09,0.440937835,0,2.12E-05,-0.088187567,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-130,0,1.56E-09,0.290365075,0,2.12E-05,-0.058073015,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-131,0,1.56E-09,0.212643615,0,2.12E-05,-0.042528723,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-132,0,1.56E-09,0.298879075,0,2.12E-05,-0.059775815,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-133,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-134,0.01,0.198559462,0.499140238,0.02,5486.817877,-0.068304546,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-135,0.01,1.56E-09,0.443933175,0,2788.996368,-0.082397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-136,0.01,0.314882554,0.255948561,0.03,7067.296275,-0.005113311,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-137,0.61,0.156366049,0.343933175,1,172253.318,0.439171403,3,Potential New Buyers,Accessory Upsell,VIP Perks (0% off),0
-138,0.01,0.59650559,0.317541521,0.03,10893.70013,0.015380229,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-139,0,1.56E-09,0.314390795,0,2.12E-05,-0.062878159,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-140,0.02,0.376146051,0.343933175,0.02,10688.67795,-0.010183198,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-141,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-142,0,0.70468809,0.343933175,0,9574.576202,0.013317155,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-143,0.02,0.983471454,0.359944775,0.04,18940.39021,0.059374465,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-144,0,1.56E-09,0.317361103,0,2.12E-05,-0.06347222,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-145,0.01,0.685382791,0.295245841,0.02,12101.27203,0.02919452,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-146,0,1.56E-09,0.301427855,0,2.12E-05,-0.060285571,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-147,0.01,0.141485852,0.343933175,0.03,4711.360422,-0.042912826,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-148,0.05,0.765928338,0.298622517,0.2,24351.62738,0.081460315,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-149,0,1.56E-09,0.390646413,0,2.12E-05,-0.078129282,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-150,0.13,0.149568619,0.298042175,0.13,38289.13691,0.053877208,0,High-Value Buyers,Trade-In Offer,VIP Perks (0% off),0
-151,0,1.56E-09,0.304579084,0,2.12E-05,-0.060915817,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-152,0.01,1.56E-09,0.201317855,0,2788.996368,-0.033874395,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-153,0.02,0.359794508,0.393933175,0.06,10466.51001,-0.01808833,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-154,0.01,0.139147296,0.393933175,0.02,4679.586539,-0.054185294,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-155,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-156,0.65,0.630582609,0.443933175,0.65,189852.4698,0.464979466,3,Potential New Buyers,Service Appointment,VIP Perks (0% off),0
-157,0,0.49109823,0.354566225,0,6672.537098,-0.013694986,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-158,0.05,0.359794508,0.237700801,0.2,18833.49906,0.046325671,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-159,0.04,0.158993988,0.248378375,0.16,13316.23199,0.010405547,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-160,0,1.56E-09,0.228855875,0,2.12E-05,-0.045771175,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-161,0.02,0.226880159,0.319577086,0.07,8660.606699,-0.017703072,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-162,0.01,0.230693182,0.343933175,0.02,5923.417781,-0.033519207,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-163,0.01,0.736713975,0.343933175,0.005,12798.70731,0.023937692,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-164,0.02,0.346071073,0.386699496,0.02,10280.05012,-0.022240523,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-165,0.02,0.757465128,0.343933175,0.07,15869.64896,0.039244602,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-166,0,0.558035146,0.495937028,0,7582.006996,-0.034170271,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-167,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-168,0.16,0.347999041,0.438514601,0.48,49352.19421,0.103069541,0,High-Value Buyers,Trade-In Offer,VIP Perks (0% off),0
-169,0.01,0.342247123,0.343933175,0.01,7439.097864,-0.021521966,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-170,0.01,0.186788601,0.12193505,0.03,5326.887536,0.006765059,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-171,0.03,0.796301196,0.343933175,0.03,19186.3098,0.046158599,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-172,0.47,0.666606371,0.308153825,1,140139.9893,0.416327337,3,Potential New Buyers,Service Appointment,VIP Perks (0% off),0
-173,0.01,1.56E-09,0.491883561,0,2788.996368,-0.091987537,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-174,0.01,0.641180388,0.393933175,0.04,11500.69529,0.006306995,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-175,0.03,1.56E-09,0.311842175,0,8366.989062,-0.043200909,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-176,0.03,0.245230779,0.343933175,0.09,11698.93238,-0.012047069,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-177,0.01,0.413402604,0.264667609,0.04,8405.885279,0.005621531,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-178,0.09,0.58339611,0.294756384,0.09,33027.55279,0.075523263,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-179,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-180,0.14,0.52787863,0.229952814,0.56,46218.22017,0.160961467,0,High-Value Buyers,Accessory Upsell,VIP Perks (0% off),0
-181,0,0.195277563,0.343933175,0,2653.230462,-0.046034685,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-182,0.01,1.56E-09,0.217503935,0,2788.996368,-0.037111611,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-183,0.05,0.323751906,0.393933175,0.2,18343.7893,0.010879843,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-184,0.05,1.56E-09,0.343933175,0,13944.98176,-0.036840758,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-185,0.01,0.140701998,0.441482055,0.03,4700.710233,-0.06251393,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-186,0.02,0.685382791,0.152525648,0.06,14890.26837,0.068127735,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-187,0.82,0.666606371,0.373126564,1,237754.8615,0.626953929,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-188,0.07,0.399849654,0.440819926,0.21,24955.71984,0.024147055,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-189,0.01,1.56E-09,0.243929935,0,2788.996368,-0.042396811,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-190,0.05,0.58664622,0.227359316,0.15,21915.72654,0.069824648,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-191,0,0.59650559,0.287488875,0,8104.703779,0.012001582,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-192,0,0.496585304,0.329233128,0,6747.089814,-0.007989063,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-193,0.01,0.266542327,0.437252875,0.015,6410.49905,-0.048506334,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-194,0,0.516277374,0.393933175,0,7014.64539,-0.018634733,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-195,0,1.56E-09,0.46831038,0,2.12E-05,-0.093662076,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-196,0.06,0.327369209,0.242091909,0.24,21181.93382,0.052058727,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-197,0.86,0.254955396,0.319493898,1,243317.7573,0.615275369,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-198,0.01,0.536750333,0.343933175,0.005,10081.80722,0.000639764,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-199,0,0.513417119,0.343933175,0,6975.783189,-0.008967984,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-200,0.01,0.269520423,0.514807324,0.01,6450.962349,-0.064170243,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-201,0.04,1.56E-09,0.343933175,0,11155.98541,-0.043229933,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-202,0,1.56E-09,0.260217125,0,2.12E-05,-0.052043425,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-203,0.01,0.420350385,0.223058975,0.04,8500.284571,0.01475275,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-204,0,1.56E-09,0.310225075,0,2.12E-05,-0.062045015,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-205,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-206,0.02,0.361798929,0.343933175,0.02,10493.74402,-0.011854793,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-207,0.06,0.306256181,0.540846003,0.03,20895.07175,-0.031151988,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-208,0.05,0.439454004,0.33037626,0.1,19915.83027,0.027071773,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-209,0.01,1.56E-09,0.503183097,0,2788.996368,-0.094247444,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-210,0.08,0.860707976,0.39054665,0.24,34006.38456,0.097285868,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-211,0.01,0.349937749,0.343933175,0.03,7543.590179,-0.018625924,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-212,0.03,0.28333903,0.343933175,0.06,12216.70805,-0.010607045,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-213,0,1.56E-09,0.600873429,0,2.12E-05,-0.120174686,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-214,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-215,0.03,0.620159995,0.354463642,0.03,16793.08452,0.02353015,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-216,0.03,0.296215909,0.343933175,0.03,12391.66583,-0.012106749,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-217,0.03,0.182683524,0.363559841,0.09,10849.10467,-0.023259834,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-218,0.56,1.56E-09,0.467502575,0,156183.7955,0.264293309,3,Potential New Buyers,Trade-In Offer,VIP Perks (0% off),0
-219,0.86,0.241177471,0.402842825,1,243130.557,0.597000307,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-220,0.04,0.30796234,0.600100167,0.06,15340.26057,-0.052582386,0,High-Value Buyers,Nurture Email,Accessory Bundle (≈2% value),0.02
-221,0.01,0.187829203,0.347133155,0.03,5341.026169,-0.03815332,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-222,0.03,1.56E-09,0.343933175,0,8366.989062,-0.049619109,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-223,0.05,1.56E-09,0.453021687,0,13944.98176,-0.05865846,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-224,0.01,0.909878282,0.450056275,0.04,15151.48561,0.026388588,0,High-Value Buyers,Service Appointment,Accessory Bundle (≈2% value),0.02
-225,0.06,0.256375757,0.218020321,0.24,20217.34789,0.048601539,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-226,0.01,1.56E-09,0.469770702,0,2788.996368,-0.087564965,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-227,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-228,0.04,0.306256181,0.457703155,0.04,15317.07905,-0.02630177,0,High-Value Buyers,Nurture Email,Accessory Bundle (≈2% value),0.02
-229,0.02,0.536750333,0.343933175,0.08,12870.80357,0.014528939,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-230,0.04,0.561143969,0.504807941,0.04,18780.23187,-0.006025541,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-231,0,1.56E-09,0.269438135,0,2.12E-05,-0.053887627,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-232,0.01,0.152929572,0.342235897,0.01,4866.845911,-0.043240054,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-233,0,1.56E-09,0.327114679,0,2.12E-05,-0.065422936,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-234,0.12,0.225623209,0.343933175,0.12,36533.49202,0.046171016,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-235,0.01,1.56E-09,0.421415075,0,2788.996368,-0.077893839,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-236,0.04,1.56E-09,0.343933175,0,11155.98541,-0.043229933,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-237,0.03,0.884951691,0.196861075,0.09,20390.80145,0.091901761,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-238,0.02,0.533776654,0.571398126,0.08,12830.40029,-0.031310517,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-239,0.04,0.603170388,0.443933175,0.04,19351.24358,0.011045945,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-240,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-241,0,1.56E-09,0.466920379,0,2.12E-05,-0.093384076,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-242,0.02,0.234570288,0.198029767,0.06,8765.09225,0.006502375,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-243,0,0.909878282,0.343933175,0,12362.48927,0.037224033,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-244,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-245,0,0.66291327,0.393933175,0,9006.98297,-0.001550064,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-246,0.01,0.346071073,0.605631444,0.04,7491.053768,-0.070416088,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-247,0.01,1.56E-09,0.455873914,0,2788.996368,-0.084785607,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-248,0.02,0.761684979,0.343933175,0.08,15926.98394,0.04073626,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-249,0.01,0.367879441,0.254985055,0.03,7787.363418,0.001254101,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-250,0.01,0.841792087,0.376324165,0.04,14226.40051,0.033202232,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-251,0,0.50493108,0.334639504,0,6860.483634,-0.008097965,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-252,0.02,0.60653066,0.247696643,0.06,13818.9068,0.039906409,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-253,0,1.56E-09,0.325701811,0,2.12E-05,-0.065140362,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-254,0,0.275576809,0.37485847,0,3744.253948,-0.042864013,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-255,0.02,1.56E-09,0.343933175,0,5577.992715,-0.056008284,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-256,0.01,1.56E-09,0.314216647,0,2788.996368,-0.056454154,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-257,0.02,1.56E-09,0.343933175,0,5577.992715,-0.056008284,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-258,0.06,1.56E-09,0.452213374,0,16733.9781,-0.052107622,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-259,0.01,1.56E-09,0.519537021,0,2788.996368,-0.097518229,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-260,0.01,0.205289658,0.343933175,0.015,5578.260844,-0.036978993,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-261,0.53,0.133839881,0.343933175,1,149635.2849,0.385433457,3,Potential New Buyers,Accessory Upsell,VIP Perks (0% off),0
-262,0.05,0.22313016,0.344721441,0.175,16976.64461,0.006498667,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-263,0,1.56E-09,0.489978941,0,2.12E-05,-0.097995788,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-264,0.06,0.420350385,0.343933175,0.18,22445.26631,0.036523787,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-265,0.82,1.56E-09,0.258264491,0,228697.7005,0.472259486,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-266,0.01,0.231978378,0.224556891,0.01,5940.879694,-0.010494211,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-267,0.02,0.420350385,0.405607815,0.06,11289.28092,-0.013367843,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-268,0,1.56E-09,0.372605349,0,2.12E-05,-0.07452107,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-269,0,0.340351021,0.292379375,0,4624.339248,-0.018821297,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-270,0.79,0.365841333,0.343933175,1,225301.3868,0.578582698,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-271,0,1.56E-09,0.415064565,0,2.12E-05,-0.083012913,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-272,0.01,0.215815083,0.380885815,0.01,5721.269493,-0.043643194,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-273,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-274,0.01,0.309678003,0.435567401,0.03,6996.582197,-0.041643466,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-275,0.01,0.158113137,0.201530439,0.03,4937.274858,-0.01249502,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-276,0.03,0.66291327,0.238331495,0.075,17373.97201,0.056237798,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-277,0.12,1.56E-09,0.258905143,0,33467.95619,0.024889077,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-278,0.04,0.851197488,0.386607075,0.04,22721.18045,0.051409007,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-279,0,1.56E-09,0.393933175,0,2.12E-05,-0.078786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-280,0.1,0.175715532,0.197968535,0.1,30277.40519,0.054770808,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-281,0.06,0.309678003,0.237693455,0.24,20941.56393,0.050877201,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-282,0.1,0.655588337,0.457711053,0.3,36797.42279,0.07873268,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-283,0,0.68920107,0.254661201,0,9364.15452,0.029367144,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-284,0.05,0.313138056,0.396185115,0.15,18199.57923,0.004192827,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-285,0.06,0.599828732,0.251917691,0.18,24883.8333,0.075838054,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-286,0,1.56E-09,0.303891511,0,2.12E-05,-0.060778302,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-287,0.04,0.241177471,0.111718402,0.16,14432.85654,0.047312807,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-288,0.02,0.425046988,0.261612335,0.02,11353.09353,0.011978458,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-289,0.01,1.56E-09,0.405082552,0,2788.996368,-0.074627335,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-290,0.01,0.889881771,0.439891095,0.04,14879.79361,0.026091814,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-291,0.01,1.56E-09,0.177363013,0,2788.996368,-0.029083427,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-292,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-293,0.02,1.56E-09,0.417591071,0,5577.992715,-0.070739863,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-294,0.04,0.235877083,0.367541458,0.12,14360.84033,-0.008469357,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-295,0.02,1.56E-09,0.449659725,0,5577.992715,-0.077153594,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-296,0.02,0.580164007,0.477242825,0.08,13460.66387,-0.007074828,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-297,0.01,1.56E-09,0.448937535,0,2788.996368,-0.083398331,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-298,0.04,1.56E-09,0.343933175,0,11155.98541,-0.043229933,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-299,0.89,0.296215909,0.343933175,1,252245.3517,0.627834956,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-300,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-301,0.05,0.235877083,0.343933175,0.2,17149.83668,0.010641475,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-302,0.05,0.208739823,0.343933175,0.15,16781.12353,0.002479691,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-303,0.01,1.56E-09,0.367403375,0,2788.996368,-0.067091499,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-304,0.02,0.344153787,0.410105745,0.03,10254,-0.026145157,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-305,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-306,0.02,0.972604477,0.343933175,0.03,18792.74092,0.060310664,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-307,0.01,0.338465425,0.343933175,0.02,7387.716053,-0.020962574,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-308,0.02,0.461985293,0.312112705,0.04,11854.97318,0.008182097,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-309,0.02,0.196365457,0.356579548,0.06,8246.004346,-0.029658858,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-310,0.01,1.56E-09,0.449453883,0,2788.996368,-0.083501601,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-311,0,0.634095595,0.379491075,0,8615.438064,-0.002019215,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-312,0.03,0.444364054,0.430710876,0.12,14404.55028,-0.003201427,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-313,0,1.56E-09,0.584490307,0,2.12E-05,-0.116898061,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-314,0,1.56E-09,0.342518225,0,2.12E-05,-0.068503645,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-315,0,0.30287217,0.420981721,0,4115.115199,-0.048908458,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-316,0,1.56E-09,0.393933175,0,2.12E-05,-0.078786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-317,0,0.522045777,0.353152316,0,7093.020506,-0.00980648,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-318,0.1,0.272531793,0.355616092,0.05,31592.84487,0.029521439,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-319,0.05,1.56E-09,0.246646175,0,13944.98176,-0.017383358,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-320,0.03,0.332871084,0.343933175,0.03,12889.6986,-0.007836025,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-321,0.07,0.712561618,0.343933175,0.07,29204.52803,0.065958734,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-322,0.06,0.732632468,0.376265462,0.12,26688.23372,0.060441572,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-323,0,0.272531793,0.338103665,0,3702.881399,-0.035867829,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-324,0.02,0.192049909,0.441019843,0.03,8187.369114,-0.050049725,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-325,0.01,0.386741023,0.23759911,0.03,8043.635177,0.006928869,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-326,0.01,1.56E-09,0.236528888,0,2788.996368,-0.040916602,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-327,0,0.461985293,0.343933175,0,6276.980489,-0.014960348,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-328,0.05,0.149568619,0.275072735,0.2,15977.16613,0.014357693,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-329,0.05,0.522045777,0.343933175,0.125,21038.00224,0.036483225,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-330,0.59,0.818730753,0.343933175,1,175674.855,0.503565709,3,Potential New Buyers,Service Appointment,VIP Perks (0% off),0
-331,0.01,0.791889566,0.428637875,0.01,13548.37643,0.013925306,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-332,0.06,0.200777981,0.343933175,0.06,19461.94256,-0.001058775,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-333,0.05,0.158113137,0.343933175,0.05,16093.26025,-0.013418866,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-334,0.02,1.56E-09,0.472490707,0,5577.992715,-0.08171979,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-335,0.14,0.787502378,0.515452808,0.56,49745.72034,0.134110445,0,High-Value Buyers,Service Appointment,VIP Perks (0% off),0
-336,0.01,1.56E-09,0.517095649,0,2788.996368,-0.097029954,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-337,0.01,0.169013315,0.343933175,0.03,5085.375257,-0.039705579,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-338,0.02,0.914947229,0.47169567,0.08,18009.35359,0.033040472,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-339,0,0.269520423,0.222029775,0,3661.966002,-0.013003909,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-340,0.01,1.56E-09,0.268420203,0,2788.996368,-0.047294865,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-341,0.01,1.56E-09,0.363242296,0,2788.996368,-0.066259284,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-342,0.02,0.239841311,0.374211841,0.02,8836.709485,-0.032119909,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-343,0.02,1.56E-09,0.364320096,0,5577.992715,-0.060085668,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-344,0.87,0.757465128,0.415193225,0.87,252934.3385,0.640707868,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-345,0.02,0.429796067,0.459633935,0.02,11417.61913,-0.027072542,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-346,0.01,0.217017393,0.310149961,0.03,5737.605234,-0.027355942,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-347,0.05,0.323751906,0.343933175,0.2,18343.7893,0.020879843,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-348,0.55,0.172811209,0.452785703,1,155742.7799,0.380981884,3,Potential New Buyers,Accessory Upsell,VIP Perks (0% off),0
-349,0,1.56E-09,0.366736935,0,2.12E-05,-0.073347387,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-350,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-351,0.01,0.670320046,0.443933175,0.03,11896.61496,-0.001297919,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-352,0.02,0.166219771,0.324511337,0.06,7836.4158,-0.026757514,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-353,0.03,0.187829203,0.343933175,0.015,10919.01886,-0.026234974,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-354,0.01,0.241177471,0.343933175,0.04,6065.867502,-0.030297674,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-355,0.02,1.56E-09,0.228556441,0,5577.992715,-0.032932937,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-356,0.09,0.201896518,0.44567655,0.18,27844.12913,0.009890398,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-357,0.68,1.56E-09,0.426890375,0,189651.7516,0.349085854,3,Potential New Buyers,Trade-In Offer,VIP Perks (0% off),0
-358,0.03,0.228144112,0.349971325,0.075,11466.77634,-0.01674548,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-359,0.14,0.146281531,0.343933175,0.56,41033.47168,0.093705202,0,High-Value Buyers,Accessory Upsell,VIP Perks (0% off),0
-360,0.05,0.155499757,0.343933175,0.05,16057.75233,-0.013723353,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-361,0.02,1.56E-09,0.313534008,0,5577.992715,-0.049928451,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-362,0.02,0.325555533,0.362561598,0.02,10001.30608,-0.019803226,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-363,0,0.318400758,0.448718575,0,4326.101667,-0.05264658,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-364,0.02,0.485671785,0.410861455,0.04,12176.80085,-0.008807921,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-365,0,0.213430411,0.343933175,0,2899.872669,-0.043919682,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-366,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-367,0.1,0.809684097,0.343933175,0.4,38891.11731,0.12944208,0,High-Value Buyers,Service Appointment,VIP Perks (0% off),0
-368,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-369,0.09,0.761684979,0.343933175,0.09,35449.95837,0.086460488,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-370,0.01,0.26213677,0.393933175,0.03,6350.640875,-0.038855689,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-371,0.04,0.444364054,0.201615664,0.08,17193.54663,0.045006791,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-372,0.04,0.904837418,0.470970635,0.12,23449.98459,0.048785927,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-373,0.87,0.542747481,0.343933175,1,250016.9761,0.646488113,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-374,0.01,0.137609773,0.450903725,0.04,4658.696253,-0.063758542,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-375,0.01,1.56E-09,0.387042375,0,2788.996368,-0.071019299,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-376,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-377,0.03,1.56E-09,0.393933175,0,8366.989062,-0.059619109,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-378,0.03,1.56E-09,0.377266508,0,8366.989062,-0.056285775,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-379,0.05,0.369928904,0.439185302,0.05,18971.19479,-0.007790462,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-380,0.02,0.972604477,0.368933175,0.08,18792.74092,0.060310664,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-381,0.01,1.56E-09,0.492275175,0,2788.996368,-0.092065859,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-382,0.8,0.215815083,0.343933175,1,226051.9809,0.567492191,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-383,0.02,0.20643333,0.343933175,0.02,8382.796229,-0.029956567,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-384,0.77,0.439454004,0.343933175,1,220723.5673,0.57438102,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-385,0.04,0.644752415,0.447683535,0.12,19916.21735,0.023140629,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-386,0.01,0.58664622,0.393933175,0.04,10759.74115,-4.68E-05,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-387,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-388,0.01,0.239841311,0.477708741,0.01,6047.713138,-0.060208464,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-389,0.01,0.219442143,0.665022482,0.04,5770.550244,-0.097047936,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-390,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-391,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-392,0.03,0.26213677,0.466334138,0.12,11928.63357,-0.031557531,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-393,0.02,1.56E-09,0.299304075,0,5577.992715,-0.047082464,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-394,0.06,1.56E-09,0.270338971,0,16733.9781,-0.015732741,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-395,0.02,1.56E-09,0.279885632,0,5577.992715,-0.043198775,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-396,0.12,0.219442143,0.203996099,0.36,36449.51006,0.09743827,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-397,0.04,1.56E-09,0.343933175,0,11155.98541,-0.043229933,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-398,0.04,0.378241567,0.466800075,0.16,16295.14235,-0.007734077,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-399,0.05,0.609909652,0.234523701,0.05,22231.80611,0.061102213,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-400,0.01,0.212247974,0.404924075,0.02,5672.803281,-0.047866453,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-401,0,1.56E-09,0.261600737,0,2.12E-05,-0.052320147,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-402,0.02,1.56E-09,0.264741976,0,5577.992715,-0.040170044,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-403,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-404,0.06,0.415705676,0.468154375,0.06,22382.15879,-0.000861612,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-405,0.03,0.972604477,0.313525641,0.09,21581.73726,0.078781346,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-406,0,0.190985923,0.374315871,0,2594.920078,-0.052611247,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-407,0,0.978022872,0.498864615,0,13288.3678,0.014177327,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-408,0.01,0.899824481,0.364447975,0.01,15014.88492,0.039338872,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-409,0,0.338465425,0.559988387,0,4598.719705,-0.072562792,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-410,0,1.56E-09,0.393933175,0,2.12E-05,-0.078786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-411,0,0.485671785,0.343933175,0,6598.80816,-0.012200615,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-412,0,0.68920107,0.343933175,0,9364.15452,0.011512749,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-413,0.02,0.454349348,0.446542782,0.02,11751.22382,-0.021593589,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-414,0,1.56E-09,0.402680225,0,2.12E-05,-0.080536045,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-415,0.03,0.589914435,0.481602741,0.06,16382.139,-0.002421606,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-416,0.05,0.376146051,0.343933175,0.025,19055.66699,0.009484328,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-417,0.01,1.56E-09,0.254257895,0,2788.996368,-0.044462403,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-418,0.1,0.291319891,0.343933175,0.3,31848.1182,0.05904704,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-419,0.02,1.56E-09,0.343933175,0,5577.992715,-0.056008284,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-420,0.09,1.56E-09,0.160907882,0,25100.96715,0.025321003,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-421,0.01,0.193119822,0.408091346,0.02,5412.909645,-0.050728544,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-422,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-423,0.82,0.175715532,0.343933175,1,231085.1422,0.575598511,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-424,0.03,0.439454004,0.343933175,0.12,14337.83758,0.013582039,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-425,0.03,1.56E-09,0.465874815,0,8366.989062,-0.074007437,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-426,0.05,0.69304062,0.462543951,0.1,23361.30411,0.03018382,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-427,0.04,0.18472466,0.169374701,0.16,13665.83387,0.029204184,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-428,0.04,1.56E-09,0.443933175,0,11155.98541,-0.063229933,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-429,0.18,0.187829203,0.480381728,0.72,52753.96407,0.112812947,0,High-Value Buyers,Accessory Upsell,VIP Perks (0% off),0
-430,0.05,0.49109823,0.343933175,0.1,20617.51883,0.030377501,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-431,0.07,0.313138056,0.343933175,0.07,23777.57193,0.019421566,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-432,0.52,0.983471454,0.343933175,1,158390.2076,0.478035556,3,Potential New Buyers,Service Appointment,VIP Perks (0% off),0
-433,0.04,1.56E-09,0.449159036,0,11155.98541,-0.064275105,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-434,0.08,0.81419486,0.390804875,0.32,33374.41223,0.099814942,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-435,0.02,0.239841311,0.343933175,0.05,8836.709485,-0.023064175,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-436,0.1,0.399849654,0.224627675,0.4,33322.70888,0.105553032,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-437,0.01,0.353847628,0.405565275,0.025,7596.713583,-0.030996801,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-438,0.02,0.499351789,0.253509133,0.03,12362.67065,0.023256412,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-439,0.02,1.56E-09,0.343933175,0,5577.992715,-0.056008284,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-440,0.78,1.56E-09,0.393933175,0,217541.7151,0.419569048,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-441,0,1.56E-09,0.443933175,0,2.12E-05,-0.088786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-442,0.79,0.154638265,0.375923286,0.79,222431.7769,0.526577232,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-443,0.5,1.56E-09,0.337494275,0,139449.8174,0.251959916,3,Potential New Buyers,Trade-In Offer,VIP Perks (0% off),0
-444,0.01,0.137609773,0.343933175,0.03,4658.696253,-0.043364432,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-445,0.01,0.351887258,0.343933175,0.01,7570.078099,-0.020398785,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-446,0.06,1.56E-09,0.533526376,0,16733.9781,-0.068370223,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-447,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-448,0.03,1.56E-09,0.390427625,0,8366.989062,-0.058917999,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-449,0,0.174742041,0.364905841,0,2374.214934,-0.052621829,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-450,0.03,0.207583373,0.313540139,0.12,11187.41818,-0.007354792,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-451,0.02,1.56E-09,0.246105255,0,5577.992715,-0.0364427,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-452,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-453,0.02,0.245230779,0.343933175,0.04,8909.936028,-0.023436244,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-454,0,0.620159995,0.343933175,0,8426.095483,0.003468717,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-455,0.02,0.161666093,0.282196775,0.08,7774.545118,-0.016825154,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-456,0.03,0.561143969,0.343515675,0.12,15991.23552,0.027843737,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-457,0.03,0.724537164,0.447245475,0.12,18211.25403,0.026134853,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-458,0,1.56E-09,0.502165596,0,2.12E-05,-0.100433119,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-459,0,1.56E-09,0.33588355,0,2.12E-05,-0.06717671,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-460,0.05,1.56E-09,0.302854588,0,13944.98176,-0.02862504,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-461,0.01,0.880048924,0.393933175,0.03,14746.19501,0.033137765,2,Trade-In Shoppers,Service Appointment,Accessory Bundle (≈2% value),0.02
-462,0.02,0.346071073,0.343933175,0.08,10280.05012,-0.007687258,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-463,0,1.56E-09,0.404065775,0,2.12E-05,-0.080813155,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-464,0,1.56E-09,0.393933175,0,2.12E-05,-0.078786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-465,0,0.274050072,0.343933175,0,3723.510212,-0.036856835,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-466,0.03,1.56E-09,0.443287147,0,8366.989062,-0.069489903,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-467,0.03,0.292942839,0.343933175,0.12,12347.19472,-0.003488097,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-468,0.02,0.133839881,0.439443375,0.02,7396.471194,-0.057516529,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-469,0.01,0.321958272,0.480767675,0.01,7163.433846,-0.051252736,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-470,0.02,1.56E-09,0.440820848,0,5577.992715,-0.075385819,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-471,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-472,0.04,0.904837418,0.343933175,0.1,23449.98459,0.072193419,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-473,0.07,1.56E-09,0.258424801,0,19522.97445,-0.006960732,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-474,0,1.56E-09,0.500902001,0,2.12E-05,-0.1001804,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-475,0,1.56E-09,0.361168235,0,2.12E-05,-0.072233647,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-476,0.04,1.56E-09,0.443933175,0,11155.98541,-0.063229933,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-477,0.07,0.787502378,0.270603015,0.07,30222.74591,0.089356175,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-478,0,0.25780403,0.343933175,0,3502.775722,-0.038749675,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-479,0.03,0.59650559,0.343933175,0.12,16471.69282,0.031880249,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-480,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-481,0.06,1.56E-09,0.478173857,0,16733.9781,-0.057299719,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
-482,0,1.56E-09,0.473242135,0,2.12E-05,-0.094648427,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-483,0.08,1.56E-09,0.343933175,0,22311.9708,-0.017673231,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-484,0.01,1.56E-09,0.24071767,0,2788.996368,-0.041754358,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-485,0.03,0.195277563,0.555818341,0.03,11020.2195,-0.066244192,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-486,0.07,0.338465425,0.377266508,0.14,24121.69414,0.022705812,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-487,0,1.56E-09,0.343933175,0,2.12E-05,-0.068786635,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-488,0.81,0.133839881,0.343933175,0.81,227727.1826,0.545330369,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-489,0.03,0.382467686,0.343933175,0.09,13563.56616,0.003942516,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-490,0,1.56E-09,0.254156775,0,2.12E-05,-0.050831355,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-491,0.02,0.272531793,0.118497928,0.02,9280.874094,0.022831669,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-492,0.02,0.740818221,0.435762928,0.06,15643.46792,0.017939106,0,High-Value Buyers,Service Appointment,Accessory Bundle (≈2% value),0.02
-493,0.79,0.736713975,0.184435418,1,230340.4224,0.653692926,1,Service-Only,New-Car Promo,VIP Perks (0% off),0
-494,0,0.320174574,0.399611575,0,4350.20245,-0.042618512,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-495,0.01,0.214619435,0.398610598,0.02,5705.024254,-0.046327457,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-496,0.01,1.56E-09,0.343933175,0,2788.996368,-0.062397459,2,Trade-In Shoppers,Nurture Email,Referral Voucher,0
-497,0.04,0.551869075,0.343933175,0.04,18654.21416,0.025068787,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
-498,0.01,0.252138238,0.343933175,0.01,6214.79112,-0.032020626,2,Trade-In Shoppers,Nurture Email,Accessory Bundle (≈2% value),0.02
-499,0.06,0.860707976,0.484540358,0.12,28428.39186,0.053708776,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
-500,0.05,0.132361002,0.208462735,0.05,15743.36676,0.010674819,0,High-Value Buyers,Nurture Email,Accessory Bundle (≈2% value),0.02
+customer_id,P_buy,P_service,CreditRiskProb,P_upsell,CLV_12m,LeadScore,cluster,segment,next_action,offer_text,discount_pct
+001,0.0416666666666666,0.0333333333333333,0.0916666666666666,1.0,12073.717125533009,0.1124555880607487,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+002,0.0166666666666666,0.0,0.0,0.9833333333333332,4648.327245149912,0.1090911680355396,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+003,0.85,0.0333333333333333,0.0,0.9916666666666668,237517.5885153037,0.6517105711177564,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+004,0.8333333333333334,0.1,0.025,0.9916666666666668,233775.0592954703,0.6437414056926826,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+005,0.8,0.6583333333333333,0.0083333333333333,0.9833333333333332,232064.46326719577,0.6899558414842535,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+006,0.0083333333333333,0.8666666666666667,0.0,0.05,14099.53795168888,0.111631617953824,0,High-Value Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+007,0.0083333333333333,0.05,0.0,1.0,3003.512141562297,0.1112204193089524,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+008,0.0666666666666666,0.0166666666666666,0.0416666666666666,0.9833333333333332,18819.75848692876,0.1349785061281084,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+009,0.0166666666666666,0.0,0.0,1.0,4648.327245149912,0.1107578347022063,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+010,0.0333333333333333,0.9,0.0666666666666666,0.975,21524.92783207197,0.2108293713123664,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+011,0.0083333333333333,0.025,0.0083333333333333,0.9916666666666668,2663.837882068626,0.1057996683300278,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+012,0.0333333333333333,0.0,0.0,0.0833333333333333,9296.654490299825,0.029849002737746,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+013,0.05,0.0,0.0,1.0,13944.981735449735,0.132273504106619,0,High-Value Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+014,0.0083333333333333,0.0,0.15,0.975,2324.163622574956,0.0728789173511031,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+015,0.0333333333333333,0.025,0.05,0.95,9636.328749793494,0.1094364203833373,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+016,0.0,0.025,0.9,0.975,339.6742594936709,-0.0795792490210753,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+017,0.0166666666666666,0.0666666666666666,0.0,0.1,5554.125270466368,0.0285465039793387,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+018,0.8416666666666667,0.0916666666666666,0.0083333333333333,0.975,235985.99816488067,0.6498134060508108,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+019,0.0666666666666666,0.0083333333333333,0.0,0.975,18706.5337337642,0.1415049224684669,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+020,0.025,0.05,0.9,0.0166666666666666,7651.8393867122095,-0.1563550793221745,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+021,0.0,0.0,0.6166666666666667,0.975,0.0,-0.0258333333333333,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+022,0.0,0.025,0.0,0.9916666666666668,339.6742594936709,0.1020874176455913,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+023,0.0166666666666666,0.0,0.0,0.9916666666666668,4648.327245149912,0.109924501368873,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+024,0.0,0.0083333333333333,0.0,0.9916666666666668,113.22475316455694,0.1001402503263082,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+025,0.0333333333333333,0.0083333333333333,0.0,0.9916666666666668,9409.87924346438,0.1216559197307209,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+026,0.025,0.8333333333333334,0.05,0.9833333333333332,18294.966184180565,0.2018284513507975,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+027,0.0416666666666666,0.0583333333333333,0.0416666666666666,0.9666666666666668,12413.391385026676,0.12204300570634,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+028,0.025,0.0333333333333333,0.8416666666666667,0.0416666666666666,7425.389880383095,-0.1441355799747909,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+029,0.0166666666666666,0.0083333333333333,0.025,0.0333333333333333,4761.551998314469,0.0100647516951812,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+030,0.475,0.0166666666666666,0.0,0.0416666666666666,132703.7759931016,0.3127121229988306,2,Trade-In Shoppers,Trade-In Offer,VIP Perks (0% off),0.0
+031,0.0333333333333333,0.0083333333333333,0.0083333333333333,1.0,9409.87924346438,0.1208225863973875,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+032,0.0,0.0083333333333333,0.0416666666666666,0.0666666666666666,113.22475316455694,-0.0006930830070251,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+033,0.025,0.0083333333333333,0.7333333333333333,0.9833333333333332,7085.715620889425,-0.0312229976203822,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+034,0.0416666666666666,0.8166666666666667,0.0583333333333333,0.975,22716.84392300136,0.2081391187337207,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+035,0.0,0.0,0.0083333333333333,1.0,0.0,0.0983333333333333,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+036,0.025,0.025,0.0083333333333333,0.9333333333333332,7312.165127218539,0.1107241696989008,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+037,0.025,0.0166666666666666,0.0,0.9583333333333334,7198.940374053982,0.1139172527059259,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+038,0.1083333333333333,0.1916666666666666,0.0,0.9583333333333334,32818.29641625924,0.1881516830694301,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+039,0.025,0.0083333333333333,0.0,0.9666666666666668,7085.715620889425,0.1137770023796177,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+040,0.0833333333333333,0.1416666666666666,0.875,0.9833333333333332,25166.457029547026,-0.0063265709417286,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+041,0.0,0.025,0.0916666666666666,0.9666666666666668,339.6742594936709,0.0812540843122579,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+042,0.0,0.05,0.0166666666666666,0.0416666666666666,679.3485189873418,0.0066748352911826,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+043,0.0166666666666666,0.0,0.9083333333333332,0.9833333333333332,4648.327245149912,-0.0725754986311269,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+044,0.0166666666666666,0.9,0.0083333333333333,0.9666666666666668,16876.60058692206,0.2109048699434934,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+045,0.0,0.0416666666666666,0.0083333333333333,0.9583333333333334,566.1237658227847,0.0990345849648744,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+046,0.8333333333333334,0.0666666666666666,0.0166666666666666,0.975,233322.16028281205,0.6398470710541164,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+047,0.0333333333333333,0.0666666666666666,0.0,0.0,10202.452515616278,0.029304338681545,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+048,0.0,0.0083333333333333,0.825,0.9916666666666668,113.22475316455694,-0.0648597496736917,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+049,0.025,0.025,0.0916666666666666,0.9833333333333332,7312.165127218539,0.0990575030322341,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+050,0.1083333333333333,0.0083333333333333,0.0166666666666666,0.975,30327.351846638983,0.1650661758906494,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+051,0.0333333333333333,0.0083333333333333,0.8833333333333333,0.9333333333333332,9409.87924346438,-0.060844080269279,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+052,0.0166666666666666,0.8666666666666667,0.0416666666666666,0.9333333333333332,16423.701574263836,0.1970105353049272,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+053,0.0083333333333333,0.0416666666666666,0.0,0.9916666666666668,2890.2873883977404,0.1094135023159775,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+054,0.125,0.8583333333333333,0.0083333333333333,0.0166666666666666,46524.6039145737,0.1809628772096269,0,High-Value Buyers,Service Appointment,VIP Perks (0% off),0.0
+055,0.8166666666666667,0.0333333333333333,0.0083333333333333,0.0666666666666666,228220.9340250039,0.5360282350466771,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+056,0.0333333333333333,0.0166666666666666,0.0,0.9833333333333332,9523.103996628935,0.1217961700570291,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+057,0.0333333333333333,0.1333333333333333,0.175,0.9166666666666666,11108.250540932737,0.0937596746253441,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+058,0.075,0.6416666666666667,0.1166666666666666,0.9916666666666668,29635.77859684549,0.199209531285661,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+059,0.0666666666666666,0.125,0.1166666666666666,0.9666666666666668,20291.680278068,0.1309684270367819,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+060,0.1666666666666666,0.8166666666666667,0.0583333333333333,0.9583333333333334,57579.29826162569,0.2871562123336016,0,High-Value Buyers,Service Appointment,VIP Perks (0% off),0.0
+061,0.0583333333333333,0.925,0.0,0.975,28837.092959290512,0.2432202076779339,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+062,0.0166666666666666,0.1083333333333333,0.0,1.0,6120.249036289152,0.1234144222775464,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+063,0.0166666666666666,0.0,0.0083333333333333,0.975,4648.327245149912,0.1065911680355396,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+064,0.0,0.0,0.0,0.975,0.0,0.0975,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+065,0.0,0.025,0.0,0.0333333333333333,339.6742594936709,0.0062540843122579,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+066,0.0166666666666666,0.6333333333333333,0.0333333333333333,0.9666666666666668,13253.40848565624,0.1747501928349639,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+067,0.0166666666666666,0.0916666666666666,0.85,0.025,5893.799529960038,-0.1460327450417366,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+068,0.0166666666666666,0.025,0.0083333333333333,0.9833333333333332,4988.001504643582,0.1103452523477976,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+069,0.075,0.8666666666666667,0.1083333333333333,1.0,32692.84693228853,0.2279962900959827,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+070,0.0333333333333333,0.0,0.0,0.9833333333333332,9296.654490299825,0.119849002737746,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+071,0.0,0.0083333333333333,0.0,0.9916666666666668,113.22475316455694,0.1001402503263082,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+072,0.1583333333333333,0.1583333333333333,0.025,0.1416666666666666,46310.37913905074,0.1298641858708163,0,High-Value Buyers,Trade-In Offer,VIP Perks (0% off),0.0
+073,0.0083333333333333,0.0416666666666666,0.85,0.05,2890.2873883977404,-0.1547531643506891,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+074,0.0,0.7083333333333334,0.0083333333333333,0.9833333333333332,9624.10401898734,0.1794212777361981,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+075,0.0083333333333333,0.0083333333333333,0.025,0.9833333333333332,2437.388375739513,0.099685834344078,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+076,0.0083333333333333,0.9083333333333332,0.0166666666666666,0.9916666666666668,14665.661717511664,0.2073328695853651,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+077,0.75,0.0333333333333333,0.0,1.0,209627.62504440424,0.5879968962378517,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+078,0.0166666666666666,0.05,0.0,0.0166666666666666,5327.675764137253,0.0182660033267222,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+079,0.0416666666666666,0.0333333333333333,0.0083333333333333,0.975,12073.717125533009,0.1266222547274154,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+080,0.025,0.6833333333333333,0.0,0.0333333333333333,16256.920627218538,0.0993039454772496,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+081,0.025,0.2,0.0083333333333333,0.975,9689.884943674237,0.1353360932180399,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+082,0.0333333333333333,0.0333333333333333,0.0083333333333333,0.9833333333333332,9749.553502958051,0.1220766707096455,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+083,0.8833333333333333,0.0833333333333333,0.225,0.975,247493.5915245909,0.6258333333333332,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+084,0.825,0.0,0.0,0.9583333333333334,230092.1986349206,0.6283461510925474,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+085,0.0583333333333333,0.0666666666666666,0.0333333333333333,1.0,17174.943383341146,0.1387744240681879,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+086,0.025,0.025,0.025,0.9916666666666668,7312.165127218539,0.1132241696989008,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+087,0.0166666666666666,0.0083333333333333,0.0083333333333333,1.0,4761.551998314469,0.1100647516951812,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+088,0.0333333333333333,0.1583333333333333,0.0833333333333333,0.9666666666666668,11447.924800426405,0.120013758937602,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+089,0.0333333333333333,0.0166666666666666,0.05,0.925,9523.103996628935,0.1059628367236958,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+090,0.0166666666666666,0.025,0.0,1.0,4988.001504643582,0.113678585681131,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+091,0.0583333333333333,0.0583333333333333,0.0083333333333333,0.9833333333333332,17061.71863017659,0.1411341737418797,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+092,0.0166666666666666,0.825,0.0083333333333333,0.9916666666666668,15857.577808441049,0.2046426170067194,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+093,0.0083333333333333,0.0083333333333333,0.0166666666666666,1.0,2437.388375739513,0.1030191676774113,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+094,0.0,0.0666666666666666,0.0083333333333333,0.9666666666666668,905.7980253164556,0.1027886692771323,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+095,0.025,0.0,0.0083333333333333,0.9833333333333332,6972.490867724868,0.1128034187199761,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+096,0.0083333333333333,0.0083333333333333,0.05,0.9916666666666668,2437.388375739513,0.0955191676774113,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+097,0.0333333333333333,0.0666666666666666,0.025,0.975,10202.452515616278,0.121804338681545,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+098,0.05,0.1083333333333333,0.0166666666666666,1.0,15416.903526588976,0.1415967583486258,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+099,0.0583333333333333,0.85,0.1166666666666666,0.95,27818.070180809496,0.2086246214078266,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+100,0.0083333333333333,0.025,0.625,0.9833333333333332,2663.837882068626,-0.0183669983366388,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+101,0.0083333333333333,0.8916666666666667,0.025,0.9583333333333334,14439.21221118255,0.200385702266082,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+102,0.025,0.0,0.0083333333333333,0.9666666666666668,6972.490867724868,0.1111367520533095,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+103,0.0,0.0583333333333333,0.0083333333333333,0.9916666666666668,792.5732721518987,0.1043150856174908,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+104,0.875,0.05,0.0166666666666666,0.9833333333333332,244716.5288893577,0.6625,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+105,0.0083333333333333,0.0,0.05,0.9916666666666668,2324.163622574956,0.0945455840177698,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+106,0.0083333333333333,0.0,0.0,0.9916666666666668,2324.163622574956,0.1045455840177698,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+107,0.0166666666666666,0.0083333333333333,0.0166666666666666,0.9833333333333332,4761.551998314469,0.1067314183618479,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+108,0.0333333333333333,0.2166666666666666,0.0,0.925,12240.498072578304,0.1393288445550929,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+109,0.0,0.0,0.8833333333333333,0.9916666666666668,0.0,-0.0774999999999999,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+110,0.8333333333333334,0.0083333333333333,0.0083333333333333,0.975,232529.58701066015,0.6346986521032922,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+111,0.0,0.0083333333333333,0.0416666666666666,0.9833333333333332,113.22475316455694,0.0909735836596415,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+112,0.0833333333333333,0.875,0.0,0.0583333333333333,35130.23530802804,0.1618487911067274,0,High-Value Buyers,Service Appointment,VIP Perks (0% off),0.0
+113,0.05,0.0666666666666666,0.15,0.0416666666666666,14850.77976076619,0.014228840050418,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
+114,0.0083333333333333,0.875,0.0,0.9833333333333332,14212.762704853434,0.2059385349467989,0,High-Value Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+115,0.1083333333333333,0.0166666666666666,0.0083333333333333,1.0,30440.576599803542,0.1702064262169577,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+116,0.8583333333333333,0.05,0.0583333333333333,0.9833333333333332,240068.2016442078,0.6465366557881427,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+117,0.025,0.7,0.0166666666666666,0.9833333333333332,16483.37013354765,0.1929177794631994,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+118,0.0,0.0083333333333333,0.0,0.975,113.22475316455694,0.0984735836596415,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+119,0.0166666666666666,0.0,0.0,1.0,4648.327245149912,0.1107578347022063,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+120,0.0583333333333333,0.05,0.1333333333333333,0.125,16948.49387701203,0.0293272567489048,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+121,0.0,0.1916666666666666,0.0083333333333333,0.9833333333333332,2604.16932278481,0.1190590908384222,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+122,0.0333333333333333,0.75,0.6166666666666667,0.0916666666666666,19486.88227510995,-0.0050284678945147,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+123,0.0,0.0,0.0,0.9916666666666668,0.0,0.0991666666666666,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+124,0.0,0.9,0.0,0.9833333333333332,12228.27334177215,0.2034803685746204,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+125,0.0083333333333333,0.175,0.0833333333333333,0.9666666666666668,4701.883439030651,0.1058241742035756,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+126,0.0,0.0,0.0,1.0,0.0,0.1,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+127,0.0083333333333333,0.175,0.0416666666666666,1.0,4701.883439030651,0.1174908408702423,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+128,0.5166666666666667,0.7416666666666667,0.9083333333333332,0.975,154175.14763129287,0.3359751548098277,2,Trade-In Shoppers,Service Appointment,VIP Perks (0% off),0.0
+129,0.0333333333333333,0.0083333333333333,0.0,0.0416666666666666,9409.87924346438,0.0266559197307209,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+130,0.0083333333333333,0.0083333333333333,0.65,0.9583333333333334,2437.388375739513,-0.0278141656559219,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+131,0.0083333333333333,0.0,0.0916666666666666,0.975,2324.163622574956,0.0845455840177698,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+132,0.0,0.0,0.0166666666666666,0.9833333333333332,0.0,0.095,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+133,0.0083333333333333,0.0166666666666666,0.0,0.05,2550.613128904069,0.0123260846703862,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+134,0.0166666666666666,0.0333333333333333,0.0166666666666666,0.9666666666666668,5101.226257808139,0.1079855026741058,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+135,0.0083333333333333,0.0083333333333333,0.0,0.0166666666666666,2437.388375739513,0.0080191676774113,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+136,0.0166666666666666,0.0416666666666666,0.8166666666666667,0.025,5214.451010972696,-0.1452075803329192,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+137,0.5916666666666667,0.0166666666666666,0.0,0.975,165242.06670915097,0.4813502992476083,2,Trade-In Shoppers,Accessory Upsell,VIP Perks (0% off),0.0
+138,0.0166666666666666,0.0833333333333333,0.9,0.95,5780.574776795481,-0.0645063287013782,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+139,0.0,0.0083333333333333,0.025,0.0083333333333333,113.22475316455694,-0.0031930830070251,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+140,0.0083333333333333,0.0166666666666666,0.0083333333333333,0.0083333333333333,2550.613128904069,0.0064927513370529,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+141,0.0,0.0083333333333333,0.0,0.9833333333333332,113.22475316455694,0.0993069169929748,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+142,0.025,0.6333333333333333,0.0,1.0,15577.572108231196,0.190129110186067,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+143,0.0,0.875,0.05,1.0,11888.59908227848,0.1922262842623624,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+144,0.0083333333333333,0.0083333333333333,0.0,0.025,2437.388375739513,0.0088525010107447,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+145,0.0,0.7166666666666667,0.075,0.9166666666666666,9737.328772151895,0.1603948613958397,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+146,0.0,0.0,0.0083333333333333,0.9916666666666668,0.0,0.0975,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+147,0.0083333333333333,0.075,0.0166666666666666,0.0916666666666666,3343.1864010559684,0.0199745036212104,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+148,0.05,0.65,0.0,0.025,22776.51248228518,0.1107130295586596,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+149,0.0,0.0,0.0166666666666666,0.9916666666666668,0.0,0.0958333333333333,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+150,0.125,0.0583333333333333,0.1166666666666666,0.9833333333333332,35655.02761077624,0.1624988458840384,0,High-Value Buyers,Accessory Upsell,VIP Perks (0% off),0.0
+151,0.0,0.0083333333333333,0.8666666666666667,0.9833333333333332,113.22475316455694,-0.0740264163403584,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+152,0.0083333333333333,0.0,0.0416666666666666,0.975,2324.163622574956,0.0945455840177698,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+153,0.025,0.0416666666666666,0.0,0.05,7538.614633547652,0.0260046703515172,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+154,0.025,0.05,0.0,0.9833333333333332,7651.8393867122095,0.1203115873444921,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+155,0.0,0.0,0.0083333333333333,0.95,0.0,0.0933333333333333,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+156,0.5583333333333333,0.8333333333333334,0.0,1.0,167041.43802897775,0.5577458284880673,2,Trade-In Shoppers,Service Appointment,VIP Perks (0% off),0.0
+157,0.0,0.05,0.025,0.1083333333333333,679.3485189873418,0.0116748352911826,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+158,0.025,0.0583333333333333,0.8333333333333334,0.9833333333333332,7765.064139876767,-0.045381495662533,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+159,0.0333333333333333,0.1416666666666666,0.1083333333333333,0.9583333333333334,11221.47529409729,0.1122332582849856,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+160,0.0,0.0,0.075,1.0,0.0,0.085,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+161,0.0583333333333333,0.2583333333333333,0.025,0.975,19779.11270612596,0.1603335149066101,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+162,0.025,0.0333333333333333,0.0,1.0,7425.389880383095,0.1200310866918757,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+163,0.0,0.9,0.0083333333333333,0.975,12228.27334177215,0.2009803685746204,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+164,0.0083333333333333,0.0666666666666666,0.0083333333333333,0.9583333333333334,3229.9616478914118,0.1073342532949022,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+165,0.025,0.8916666666666667,0.0,0.0583333333333333,19087.539456332463,0.1261435369682883,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+166,0.0,0.0333333333333333,0.8833333333333333,1.0,452.8990126582278,-0.0727723320281004,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+167,0.0,0.0,0.0,0.9916666666666668,0.0,0.0991666666666666,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+168,0.1166666666666666,0.05,0.0,0.975,33217.639235036724,0.1786463448732937,0,High-Value Buyers,Accessory Upsell,VIP Perks (0% off),0.0
+169,0.025,0.05,0.0,0.95,7651.8393867122095,0.1169782540111588,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+170,0.0083333333333333,0.075,0.0916666666666666,0.9666666666666668,3343.1864010559684,0.0924745036212104,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+171,0.0333333333333333,0.875,0.0,0.0416666666666666,21185.253572578305,0.1279086203334417,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+172,0.45,0.7083333333333334,0.0083333333333333,0.9416666666666668,135128.93963803496,0.4657161480291027,2,Trade-In Shoppers,Service Appointment,VIP Perks (0% off),0.0
+173,0.0083333333333333,0.0083333333333333,0.7916666666666666,0.9916666666666668,2437.388375739513,-0.0528141656559219,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+174,0.0083333333333333,0.825,0.0083333333333333,0.9916666666666668,13533.414185866091,0.1992636996556163,0,High-Value Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+175,0.0416666666666666,0.0333333333333333,0.0166666666666666,0.975,12073.717125533009,0.1249555880607487,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+176,0.0166666666666666,0.0416666666666666,0.0083333333333333,1.0,5214.451010972696,0.1139590863337474,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+177,0.0166666666666666,0.0333333333333333,0.0166666666666666,0.05,5101.226257808139,0.0163188360074392,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+178,0.0916666666666666,0.05,0.025,0.9833333333333332,26245.148367311856,0.1583429261533175,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+179,0.05,0.0,0.0,0.0416666666666666,13944.981735449735,0.0364401707732857,0,High-Value Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+180,0.0916666666666666,0.05,0.0,0.125,26245.148367311856,0.0775095928199841,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+181,0.0,0.0416666666666666,0.0083333333333333,0.95,566.1237658227847,0.098201251631541,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+182,0.0166666666666666,0.0,0.0583333333333333,0.9833333333333332,4648.327245149912,0.097424501368873,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+183,0.0583333333333333,0.025,0.0583333333333333,0.9833333333333332,16608.819617518362,0.1272398391033135,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+184,0.0083333333333333,0.0,0.0166666666666666,0.975,2324.163622574956,0.0995455840177698,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+185,0.0083333333333333,0.1583333333333333,0.1083333333333333,0.025,4475.433932701538,0.0047103402176258,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+186,0.0166666666666666,0.8666666666666667,0.0333333333333333,0.9833333333333332,16423.701574263836,0.2036772019715939,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+187,0.8333333333333334,0.6916666666666667,0.0083333333333333,0.0333333333333333,241814.01677015383,0.6203658455272324,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+188,0.05,0.05,0.0333333333333333,0.975,14624.330254437078,0.1289483393978016,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+189,0.0166666666666666,0.0166666666666666,0.0583333333333333,0.0583333333333333,4874.776751479026,0.0068716686881561,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+190,0.0583333333333333,0.025,0.0,0.1166666666666666,16608.819617518362,0.0522398391033135,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+191,0.0166666666666666,0.0833333333333333,0.05,0.975,5780.574776795481,0.1079936712986218,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+192,0.0166666666666666,0.075,0.0,0.975,5667.350023630924,0.1170200876389802,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+193,0.025,0.025,0.0083333333333333,0.9833333333333332,7312.165127218539,0.1157241696989008,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+194,0.0,0.125,0.0,0.975,1698.3712974683542,0.1121037548946232,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+195,0.0,0.0166666666666666,0.0083333333333333,0.025,226.4495063291139,0.0027805006526164,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+196,0.0666666666666666,0.05,0.0,0.9916666666666668,19272.65749958699,0.1480395074333413,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+197,0.9,0.0833333333333333,0.05,0.9833333333333332,252141.9187697408,0.6666666666666667,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+198,0.0083333333333333,0.1833333333333333,0.0,0.9833333333333332,4815.108192195208,0.1251310911965505,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+199,0.0083333333333333,0.1,0.0083333333333333,0.9916666666666668,3682.8606605496393,0.1145619212668017,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+200,0.0,0.0916666666666666,0.0166666666666666,0.975,1245.4722848101264,0.1048760869227236,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+201,0.025,0.0,0.0583333333333333,1.0,6972.490867724868,0.1044700853866428,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+202,0.0083333333333333,0.0,0.0583333333333333,1.0,2324.163622574956,0.0937122506844365,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+203,0.0,0.025,0.0583333333333333,0.95,339.6742594936709,0.0862540843122579,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+204,0.0,0.0,0.0416666666666666,0.9583333333333334,0.0,0.0875,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+205,0.0083333333333333,0.0166666666666666,0.0083333333333333,0.975,2550.613128904069,0.1031594180037196,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+206,0.0166666666666666,0.0416666666666666,0.0083333333333333,0.9916666666666668,5214.451010972696,0.1131257530004141,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+207,0.0666666666666666,0.3166666666666666,0.9083333333333332,0.0333333333333333,22895.84960085281,-0.0983058154581291,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+208,0.025,0.0083333333333333,0.0583333333333333,0.9833333333333332,7085.715620889425,0.1037770023796177,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+209,0.05,0.0083333333333333,0.0166666666666666,0.0416666666666666,14058.206488614293,0.0340804210995939,0,High-Value Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+210,0.025,0.8583333333333333,0.05,0.9416666666666668,18634.64044367423,0.2005825356630554,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+211,0.0166666666666666,0.0083333333333333,0.0166666666666666,0.9916666666666668,4761.551998314469,0.1075647516951812,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+212,0.025,0.025,0.0416666666666666,0.975,7312.165127218539,0.1082241696989008,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+213,0.0,0.0083333333333333,0.1833333333333333,0.9916666666666668,113.22475316455694,0.0634735836596415,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+214,0.0,0.0083333333333333,0.025,0.9916666666666668,113.22475316455694,0.0951402503263082,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+215,0.0083333333333333,0.825,0.025,0.0166666666666666,13533.414185866091,0.0984303663222829,0,High-Value Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+216,0.025,0.0083333333333333,0.0083333333333333,0.975,7085.715620889425,0.1129436690462844,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+217,0.0166666666666666,0.05,0.8916666666666667,0.95,5327.675764137253,-0.0667339966732777,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+218,0.5833333333333334,0.0083333333333333,0.0166666666666666,0.95,162804.6783334115,0.4691644649035303,2,Trade-In Shoppers,Accessory Upsell,VIP Perks (0% off),0.0
+219,0.8666666666666667,0.0333333333333333,0.0083333333333333,0.9833333333333332,242165.91576045364,0.6599684058199629,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+220,0.0166666666666666,0.075,0.1,0.025,5667.350023630924,0.0020200876389802,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+221,0.0,0.0333333333333333,0.0333333333333333,1.0,452.8990126582278,0.0972276679718995,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+222,0.0166666666666666,0.0,0.0,0.9916666666666668,4648.327245149912,0.109924501368873,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+223,0.025,0.0,0.0,1.0,6972.490867724868,0.1161367520533095,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+224,0.0083333333333333,0.9,0.0333333333333333,0.0083333333333333,14552.436964347104,0.1046926192590569,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+225,0.0333333333333333,0.0583333333333333,0.875,0.9666666666666668,10089.22776245172,-0.0500025783114298,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+226,0.0083333333333333,0.0083333333333333,0.0166666666666666,0.1333333333333333,2437.388375739513,0.0163525010107447,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+227,0.0,0.0,0.0083333333333333,1.0,0.0,0.0983333333333333,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+228,0.025,0.0583333333333333,0.0,0.95,7765.064139876767,0.1179518376708003,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+229,0.0,0.075,0.0,0.9166666666666666,1019.0227784810124,0.1004289196034406,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+230,0.0333333333333333,0.1166666666666666,0.65,0.975,10881.80103460362,0.0026458406393943,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+231,0.0083333333333333,0.0,0.0416666666666666,0.9833333333333332,2324.163622574956,0.0953789173511031,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+232,0.0083333333333333,0.1083333333333333,0.025,0.9583333333333334,3796.085413714196,0.1088688382597766,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+233,0.0,0.0166666666666666,0.0083333333333333,0.9083333333333332,226.4495063291139,0.0911138339859497,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+234,0.075,0.0166666666666666,0.0083333333333333,0.0416666666666666,21143.92210950372,0.0528574234792116,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+235,0.025,0.0083333333333333,0.025,0.975,7085.715620889425,0.109610335712951,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+236,0.0333333333333333,0.0,0.0,0.025,9296.654490299825,0.0240156694044126,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+237,0.0416666666666666,0.8833333333333333,0.0333333333333333,0.9833333333333332,23622.64194831781,0.2217611213441865,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+238,0.025,0.0416666666666666,0.025,0.9416666666666668,7538.614633547652,0.1101713370181839,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+239,0.0333333333333333,0.1916666666666666,0.0083333333333333,1.0,11900.823813084631,0.1422414269095016,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+240,0.0,0.0083333333333333,0.0,0.1083333333333333,113.22475316455694,0.0118069169929748,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+241,0.025,0.0166666666666666,0.9,0.9666666666666668,7198.940374053982,-0.0652494139607407,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+242,0.0416666666666666,0.075,0.1416666666666666,1.0,12639.84089135579,0.1073235063589564,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+243,0.0,0.8583333333333333,0.0083333333333333,0.9916666666666668,11662.149575949365,0.1977791169430793,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+244,0.0,0.0,0.0083333333333333,0.075,0.0,0.0058333333333333,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+245,0.0083333333333333,0.875,0.025,0.9833333333333332,14212.762704853434,0.2009385349467989,0,High-Value Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+246,0.025,0.0583333333333333,0.65,0.975,7765.064139876767,-0.0095481623291996,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+247,0.0,0.0083333333333333,0.0083333333333333,0.9666666666666668,113.22475316455694,0.0959735836596415,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+248,0.0583333333333333,0.8916666666666667,0.0,0.9833333333333332,28384.193946632287,0.240159206372701,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+249,0.05,0.05,0.0666666666666666,0.0166666666666666,14624.330254437078,0.0264483393978016,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
+250,0.0083333333333333,0.925,0.025,0.9666666666666668,14892.111223840777,0.2051133702379815,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+251,0.0083333333333333,0.0583333333333333,0.05,0.9833333333333332,3116.736894726854,0.1005273363019273,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+252,0.025,0.825,0.6583333333333333,0.9666666666666668,18181.74143101601,0.0775215343578226,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+253,0.0,0.0083333333333333,0.0,0.975,113.22475316455694,0.0984735836596415,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+254,0.0083333333333333,0.1,0.0166666666666666,0.0416666666666666,3682.8606605496393,0.017895254600135,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+255,0.0416666666666666,0.0166666666666666,0.0,0.025,11847.267619203893,0.0313417540747989,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+256,0.0,0.0,0.0083333333333333,0.9916666666666668,0.0,0.0975,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+257,0.0,0.0,0.0,1.0,0.0,0.1,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+258,0.05,0.0083333333333333,0.025,0.925,14058.206488614293,0.1207470877662606,0,High-Value Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+259,0.0,0.0,0.0,0.9833333333333332,0.0,0.0983333333333333,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+260,0.0666666666666666,0.2,0.0416666666666666,0.9833333333333332,21310.703056549013,0.1563973466402225,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+261,0.575,0.1166666666666666,0.0083333333333333,0.9916666666666668,161952.43650197575,0.4822754684611005,2,Trade-In Shoppers,Accessory Upsell,VIP Perks (0% off),0.0
+262,0.0416666666666666,0.1583333333333333,0.7083333333333334,0.9916666666666668,13772.08842300136,0.0028926762887052,0,High-Value Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+263,0.0,0.0,0.8416666666666667,0.0333333333333333,0.0,-0.165,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+264,0.05,0.1666666666666666,0.0,0.975,16209.476798740874,0.1492451772994499,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+265,0.8,0.0,0.0,0.9833333333333332,223119.70776719577,0.6147093990392378,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+266,0.0166666666666666,0.0666666666666666,0.8833333333333333,1.0,5554.125270466368,-0.0581201626873279,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+267,0.0416666666666666,0.025,0.0333333333333333,0.9916666666666668,11960.49237236845,0.1223153377344405,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+268,0.0,0.0,0.0166666666666666,1.0,0.0,0.0966666666666666,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+269,0.0083333333333333,0.0666666666666666,0.1166666666666666,0.1166666666666666,3229.9616478914118,0.0015009199615688,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+270,0.8333333333333334,0.0333333333333333,0.0,0.15,232869.26127015383,0.5567860697488836,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+271,0.0,0.0083333333333333,0.0,0.9583333333333334,113.22475316455694,0.0968069169929748,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+272,0.025,0.0333333333333333,0.0666666666666666,0.9833333333333332,7425.389880383095,0.1050310866918756,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+273,0.0166666666666666,0.0083333333333333,0.0,0.9666666666666668,4761.551998314469,0.1083980850285145,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+274,0.025,0.05,0.125,0.1166666666666666,7651.8393867122095,0.0086449206778254,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+275,0.025,0.1166666666666666,0.0083333333333333,0.9916666666666668,8557.637412028665,0.1272669232882912,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+276,0.0416666666666666,0.9333333333333332,0.0333333333333333,0.9666666666666668,24301.99046730516,0.2259359566353691,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+277,0.1166666666666666,0.0333333333333333,0.025,0.075,32991.189728707606,0.0816991775540106,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+278,0.05,0.675,0.025,0.0583333333333333,23116.18674177885,0.1119671138709176,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+279,0.0083333333333333,0.0,0.0,0.9916666666666668,2324.163622574956,0.1045455840177698,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+280,0.0333333333333333,0.0583333333333333,0.075,0.9416666666666668,10089.22776245172,0.1074974216885702,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+281,0.0916666666666666,0.0666666666666666,0.025,1.0,26471.59787364097,0.1619567601392673,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+282,0.1083333333333333,0.8666666666666667,0.0166666666666666,0.05,41989.50142258835,0.1728452928337288,0,High-Value Buyers,Service Appointment,VIP Perks (0% off),0.0
+283,0.0166666666666666,0.875,0.9083333333333332,0.95,16536.92632742839,0.026317452297902,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+284,0.1416666666666666,0.0333333333333333,0.0,0.975,39963.68059643248,0.1928359296073201,0,High-Value Buyers,Accessory Upsell,VIP Perks (0% off),0.0
+285,0.0833333333333333,0.0833333333333333,0.025,0.8916666666666667,24373.883757395124,0.1476916767741138,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+286,0.0083333333333333,0.0166666666666666,0.8916666666666667,0.975,2550.613128904069,-0.073507248662947,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+287,0.0333333333333333,0.1666666666666666,0.1333333333333333,0.075,11561.149553590962,0.0218206759305769,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+288,0.0333333333333333,0.0166666666666666,0.0,0.9333333333333332,9523.103996628935,0.1167961700570291,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+289,0.0083333333333333,0.0083333333333333,0.0083333333333333,0.075,2437.388375739513,0.012185834344078,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+290,0.0,0.65,0.025,0.9,8831.530746835442,0.1609395254520406,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+291,0.0166666666666666,0.0166666666666666,0.1,0.9666666666666668,4874.776751479026,0.0893716686881561,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+292,0.0,0.0,0.0,0.925,0.0,0.0925,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+293,0.0,0.0166666666666666,0.0,0.9916666666666668,226.4495063291139,0.1011138339859497,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+294,0.0416666666666666,0.075,0.125,0.9916666666666668,12639.84089135579,0.1098235063589564,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+295,0.0416666666666666,0.0,0.0416666666666666,1.0,11620.818112874778,0.1185612534221825,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+296,0.0166666666666666,0.075,0.0166666666666666,0.925,5667.350023630924,0.1086867543056469,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+297,0.0,0.0083333333333333,0.0166666666666666,0.0583333333333333,113.22475316455694,0.0034735836596415,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+298,0.0416666666666666,0.0,0.0,0.9833333333333332,11620.818112874778,0.1252279200888492,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+299,0.8833333333333333,0.0416666666666666,0.0916666666666666,0.9666666666666668,246927.4677587681,0.6475,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+300,0.0083333333333333,0.0083333333333333,0.0,0.9916666666666668,2437.388375739513,0.1055191676774113,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+301,0.075,0.05,0.0,0.9916666666666668,21596.821122161942,0.1534184247844445,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+302,0.0416666666666666,0.0166666666666666,0.0083333333333333,1.0,11847.267619203893,0.1271750874081323,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+303,0.0083333333333333,0.0083333333333333,0.05,1.0,2437.388375739513,0.0963525010107447,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+304,0.0333333333333333,0.1916666666666666,0.0416666666666666,0.0,11900.823813084631,0.0355747602428349,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+305,0.0083333333333333,0.0,0.0,0.9916666666666668,2324.163622574956,0.1045455840177698,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+306,0.0083333333333333,0.8916666666666667,0.0083333333333333,0.9583333333333334,14439.21221118255,0.2037190355994153,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+307,0.0083333333333333,0.0333333333333333,0.0083333333333333,0.975,2777.062635233184,0.1051065853230027,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+308,0.0166666666666666,0.0583333333333333,0.0166666666666666,0.9666666666666668,5440.90051730181,0.1109062536530305,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+309,0.0083333333333333,0.0916666666666666,0.0083333333333333,0.95,3569.635907385082,0.1094216709404935,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+310,0.0083333333333333,0.0,0.0,0.0416666666666666,2324.163622574956,0.0095455840177698,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+311,0.0,0.8333333333333334,0.1,0.05,11322.475316455697,0.0823583659641546,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+312,0.0416666666666666,0.0583333333333333,0.075,0.025,12413.391385026676,0.0212096723730066,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+313,0.0,0.025,0.05,0.8583333333333333,339.6742594936709,0.0787540843122579,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+314,0.0,0.025,0.0333333333333333,0.9833333333333332,339.6742594936709,0.0945874176455913,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+315,0.0083333333333333,0.05,0.0916666666666666,0.95,3003.512141562297,0.0878870859756191,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+316,0.0,0.0083333333333333,0.0083333333333333,0.9916666666666668,113.22475316455694,0.0984735836596415,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+317,0.0,0.175,0.025,0.9666666666666668,2377.719816455696,0.1121119235191391,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+318,0.0833333333333333,0.1333333333333333,0.075,0.0416666666666666,25053.232276382467,0.0585331787319631,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+319,0.05,0.0,0.0166666666666666,1.0,13944.981735449735,0.1289401707732857,0,High-Value Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+320,0.0083333333333333,0.0083333333333333,0.0,1.0,2437.388375739513,0.1063525010107447,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+321,0.0416666666666666,0.875,0.0,0.9916666666666668,23509.41719515325,0.2282875376845449,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+322,0.0083333333333333,0.875,0.8583333333333333,0.975,14212.762704853434,0.0334385349467989,0,High-Value Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+323,0.0083333333333333,0.125,0.05,0.9833333333333332,4022.53492004331,0.1083160055790597,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+324,0.0083333333333333,0.0166666666666666,0.025,0.9916666666666668,2550.613128904069,0.1014927513370529,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+325,0.025,0.0833333333333333,0.0,0.05,8104.738399370437,0.0308725886497249,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+326,0.0,0.0333333333333333,0.0,0.95,452.8990126582278,0.0988943346385661,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+327,0.0166666666666666,0.0583333333333333,0.0083333333333333,0.9916666666666668,5440.90051730181,0.1150729203196972,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+328,0.025,0.0333333333333333,0.2666666666666666,0.05,7425.389880383095,-0.0283022466414576,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+329,0.0666666666666666,0.1083333333333333,0.0083333333333333,0.9916666666666668,20065.230771738887,0.1531879263841655,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+330,0.6416666666666667,0.8833333333333333,0.0083333333333333,0.9833333333333332,190962.42277371464,0.6140431706236149,2,Trade-In Shoppers,Service Appointment,VIP Perks (0% off),0.0
+331,0.0083333333333333,0.6416666666666667,0.05,1.0,11042.46961624584,0.1703448591435022,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+332,0.0666666666666666,0.0416666666666666,0.0,0.05,19159.43274642243,0.0528992571070331,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+333,0.075,0.0333333333333333,0.0,0.9833333333333332,21370.37161583283,0.150637924131828,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+334,0.0166666666666666,0.0416666666666666,0.0083333333333333,0.9583333333333334,5214.451010972696,0.1097924196670807,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+335,0.1333333333333333,0.6416666666666667,0.875,0.95,45904.92395487017,0.0810286194100498,0,High-Value Buyers,Service Appointment,VIP Perks (0% off),0.0
+336,0.0083333333333333,0.0166666666666666,0.0,0.975,2550.613128904069,0.1048260846703862,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+337,0.025,0.0666666666666666,0.0083333333333333,1.0,7878.288893041323,0.1222587546637752,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+338,0.0166666666666666,0.9083333333333332,0.0166666666666666,1.0,16989.82534008662,0.2135451202698016,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+339,0.0,0.1333333333333333,0.05,0.9916666666666668,1811.596050632911,0.1047440052209314,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+340,0.0166666666666666,0.0166666666666666,0.0083333333333333,0.1166666666666666,4874.776751479026,0.0227050020214894,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+341,0.0166666666666666,0.0083333333333333,0.0083333333333333,1.0,4761.551998314469,0.1100647516951812,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+342,0.075,0.05,0.0,0.9666666666666668,21596.821122161942,0.1509184247844445,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+343,0.0083333333333333,0.0083333333333333,0.0166666666666666,0.975,2437.388375739513,0.1005191676774113,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+344,0.8916666666666667,0.85,0.025,0.075,260234.4324383051,0.655,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+345,0.0166666666666666,0.0583333333333333,0.125,0.9833333333333332,5440.90051730181,0.0909062536530305,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+346,0.0083333333333333,0.0416666666666666,0.6583333333333333,0.9916666666666668,2890.2873883977404,-0.0222531643506891,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+347,0.0583333333333333,0.0166666666666666,0.0083333333333333,1.0,16495.594864353803,0.1379329221103386,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+348,0.5583333333333333,0.0583333333333333,0.0083333333333333,0.0,156511.53598467394,0.3655358814747367,2,Trade-In Shoppers,Trade-In Offer,VIP Perks (0% off),0.0
+349,0.0,0.0166666666666666,0.0166666666666666,0.9916666666666668,226.4495063291139,0.0977805006526164,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+350,0.0,0.0,0.0,1.0,0.0,0.1,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+351,0.025,0.7166666666666667,0.0083333333333333,1.0,16709.819639876765,0.1981982801158158,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+352,0.0333333333333333,0.0666666666666666,0.1166666666666666,0.9916666666666668,10202.452515616278,0.1051376720148784,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+353,0.0333333333333333,0.0666666666666666,0.0083333333333333,1.0,10202.452515616278,0.1276376720148784,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+354,0.05,0.1083333333333333,0.025,1.0,15416.903526588976,0.1399300916819591,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+355,0.0166666666666666,0.0333333333333333,0.8916666666666667,1.0,5101.226257808139,-0.0636811639925608,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+356,0.0916666666666666,0.025,0.0083333333333333,0.9583333333333334,25905.474107818183,0.1562555085077262,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+357,0.6666666666666666,0.0333333333333333,0.0416666666666666,0.975,186385.98881865467,0.5233743893934866,2,Trade-In Shoppers,Accessory Upsell,VIP Perks (0% off),0.0
+358,0.0083333333333333,0.05,0.05,0.9666666666666668,3003.512141562297,0.0978870859756191,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+359,0.15,0.0333333333333333,0.0083333333333333,0.0833333333333333,42287.84421900744,0.1073815136250899,0,High-Value Buyers,Trade-In Offer,VIP Perks (0% off),0.0
+360,0.0583333333333333,0.0333333333333333,0.0,0.0333333333333333,16722.044370682917,0.0448800894296217,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+361,0.025,0.0,0.8416666666666667,0.9833333333333332,6972.490867724868,-0.0538632479466904,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+362,0.025,0.0333333333333333,0.0083333333333333,0.0166666666666666,7425.389880383095,0.0200310866918757,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+363,0.0,0.0333333333333333,0.0083333333333333,0.0333333333333333,452.8990126582278,0.0055610013052328,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+364,0.0166666666666666,0.0333333333333333,0.0333333333333333,0.975,5101.226257808139,0.1054855026741058,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+365,0.0166666666666666,0.075,0.0,0.9916666666666668,5667.350023630924,0.1186867543056469,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+366,0.0,0.0083333333333333,0.0,0.0333333333333333,113.22475316455694,0.0043069169929748,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+367,0.0833333333333333,0.6416666666666667,0.0166666666666666,0.1166666666666666,31959.94221942044,0.1370884486367641,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+368,0.0,0.0,0.0,1.0,0.0,0.1,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+369,0.05,0.675,0.0083333333333333,0.8583333333333333,23116.18674177885,0.195300447204251,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+370,0.0083333333333333,0.2,0.0166666666666666,0.9666666666666668,5041.557698524322,0.1220782585158336,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+371,0.05,0.0833333333333333,0.0083333333333333,0.975,15077.229267095305,0.1378426740363678,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+372,0.0333333333333333,0.625,0.0416666666666666,0.9583333333333334,17788.510977641592,0.1820344438775287,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+373,0.8333333333333334,0.1666666666666666,0.0,0.9666666666666668,234680.85732078677,0.6540300749698149,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+374,0.0083333333333333,0.0666666666666666,0.0166666666666666,0.9666666666666668,3229.9616478914118,0.1065009199615689,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+375,0.0083333333333333,0.0,0.0666666666666666,0.9666666666666668,2324.163622574956,0.0887122506844365,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+376,0.0083333333333333,0.0,0.0083333333333333,0.9666666666666668,2324.163622574956,0.1003789173511031,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+377,0.0166666666666666,0.0083333333333333,0.0166666666666666,0.025,4761.551998314469,0.0108980850285145,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+378,0.0166666666666666,0.0083333333333333,0.0,0.975,4761.551998314469,0.1092314183618479,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+379,0.0083333333333333,0.1083333333333333,0.8666666666666667,0.0416666666666666,3796.085413714196,-0.1511311617402233,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+380,0.0416666666666666,0.8416666666666667,0.0166666666666666,0.9833333333333332,23056.51818249503,0.220226536379312,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+381,0.0083333333333333,0.0,0.0416666666666666,0.9916666666666668,2324.163622574956,0.0962122506844365,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+382,0.8083333333333333,0.0083333333333333,0.0,0.9916666666666668,225557.0961429353,0.6218952333833161,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+383,0.025,0.05,0.0,0.9666666666666668,7651.8393867122095,0.1186449206778254,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+384,0.7833333333333333,0.0083333333333333,0.0666666666666666,0.975,218584.60527521043,0.5907584813300064,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+385,0.0416666666666666,0.9,0.0916666666666666,0.9916666666666668,23849.09145464693,0.2128749553301362,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+386,0.0166666666666666,0.1583333333333333,0.0,0.95,6799.597555276494,0.1242559242353957,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+387,0.0,0.0,0.0,0.0416666666666666,0.0,0.0041666666666666,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+388,0.0166666666666666,0.0666666666666666,0.85,1.0,5554.125270466368,-0.0514534960206612,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+389,0.0083333333333333,0.05,0.9,0.9833333333333332,3003.512141562297,-0.0704462473577142,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+390,0.0,0.0083333333333333,0.0,0.9833333333333332,113.22475316455694,0.0993069169929748,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+391,0.0083333333333333,0.0,0.0,1.0,2324.163622574956,0.1053789173511031,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+392,0.05,0.0333333333333333,0.075,0.9833333333333332,14397.880748107964,0.1195011720785185,0,High-Value Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+393,0.0,0.0166666666666666,0.075,0.075,226.4495063291139,-0.0055528326807169,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+394,0.0583333333333333,0.0083333333333333,0.0,0.075,16382.370111189248,0.0461260051173637,0,High-Value Buyers,Nurture Email,3% Vehicle Discount / Free Service Pack,0.03
+395,0.0166666666666666,0.0083333333333333,0.625,0.9,4761.551998314469,-0.0232685816381521,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+396,0.0166666666666666,0.0583333333333333,0.05,1.0,5440.90051730181,0.1075729203196971,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+397,0.025,0.025,0.0083333333333333,0.9666666666666668,7312.165127218539,0.1140575030322341,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+398,0.0333333333333333,0.0583333333333333,0.0166666666666666,0.9666666666666668,10089.22776245172,0.1216640883552368,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+399,0.0416666666666666,0.5166666666666667,0.8833333333333333,0.05,18640.75280907731,-0.0844098930133749,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+400,0.0083333333333333,0.0583333333333333,0.05,0.9833333333333332,3116.736894726854,0.1005273363019273,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+401,0.0,0.0,0.0,0.0416666666666666,0.0,0.0041666666666666,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+402,0.0166666666666666,0.0083333333333333,0.0333333333333333,0.9916666666666668,4761.551998314469,0.1042314183618479,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+403,0.0,0.0,0.0166666666666666,0.9666666666666668,0.0,0.0933333333333333,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+404,0.0416666666666666,0.0666666666666666,0.0416666666666666,0.95,12526.616138191232,0.1213499226993149,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+405,0.0166666666666666,0.6916666666666667,0.8416666666666667,0.9583333333333334,14045.981757808138,0.0190652784524547,0,High-Value Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+406,0.0,0.0416666666666666,0.1916666666666666,0.0416666666666666,566.1237658227847,-0.0292987483684589,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+407,0.0,0.8666666666666667,0.05,0.9583333333333334,11775.374329113924,0.1870860339360542,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+408,0.0,0.8916666666666667,0.05,0.95,12115.048588607597,0.1891734515816455,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+409,0.0083333333333333,0.05,0.1,0.9916666666666668,3003.512141562297,0.0903870859756191,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+410,0.0,0.0166666666666666,0.0,0.9166666666666666,226.4495063291139,0.0936138339859497,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+411,0.025,0.125,0.0083333333333333,0.9833333333333332,8670.862165193223,0.1274071736145993,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+412,0.0083333333333333,0.875,0.025,0.0333333333333333,14212.762704853434,0.1059385349467989,0,High-Value Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+413,0.0333333333333333,0.0416666666666666,0.0333333333333333,0.975,9862.778256122609,0.1172169210359537,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+414,0.0,0.0083333333333333,0.0083333333333333,0.075,113.22475316455694,0.0068069169929748,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+415,0.025,0.1666666666666666,0.8666666666666667,0.0583333333333333,9236.985931016006,-0.1318915747538595,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+416,0.0416666666666666,0.2333333333333333,0.0333333333333333,0.9166666666666666,14791.111201482374,0.1391549292254791,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+417,0.0,0.0083333333333333,0.0416666666666666,0.9666666666666668,113.22475316455694,0.0893069169929748,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+418,0.1,0.025,0.0166666666666666,0.9916666666666668,28229.63773039314,0.163301092525496,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+419,0.025,0.025,0.0,1.0,7312.165127218539,0.1190575030322341,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+420,0.1,0.1166666666666666,0.025,0.025,29475.110015203267,0.0756771794482197,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+421,0.0083333333333333,0.0583333333333333,0.0166666666666666,0.0166666666666666,3116.736894726854,0.0105273363019273,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+422,0.0166666666666666,0.0166666666666666,0.0083333333333333,1.0,4874.776751479026,0.1110383353548227,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+423,0.825,0.0583333333333333,0.0,0.0333333333333333,230884.7719070725,0.5426612367100383,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+424,0.0166666666666666,0.0333333333333333,0.0,0.9583333333333334,5101.226257808139,0.1104855026741058,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+425,0.025,0.0,0.1833333333333333,0.9666666666666668,6972.490867724868,0.0761367520533095,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+426,0.025,0.6583333333333333,0.0166666666666666,0.975,15917.246367724869,0.1872165278316583,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+427,0.0833333333333333,0.05,0.1166666666666666,1.0,23920.9847447369,0.1362973421355476,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+428,0.0416666666666666,0.0083333333333333,0.0083333333333333,0.0083333333333333,11734.042866039335,0.027034837081824,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+429,0.1666666666666666,0.0333333333333333,0.875,0.975,46936.17146415734,0.0339726816606296,0,High-Value Buyers,Accessory Upsell,VIP Perks (0% off),0.0
+430,0.0166666666666666,0.1666666666666666,0.0,1.0,6912.82230844105,0.1302295078950373,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+431,0.0916666666666666,0.0416666666666666,0.0,0.1333333333333333,26131.923614147297,0.0773693424936759,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+432,0.575,0.8833333333333333,0.025,0.95,172369.113793115,0.5643451651481228,2,Trade-In Shoppers,Service Appointment,VIP Perks (0% off),0.0
+433,0.075,0.0333333333333333,0.0,0.9916666666666668,21370.37161583283,0.1514712574651614,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+434,0.025,0.8583333333333333,0.1666666666666666,0.9666666666666668,18634.64044367423,0.1797492023297221,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+435,0.025,0.175,0.0,0.9666666666666668,9350.210684180563,0.1332486755724486,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+436,0.1083333333333333,0.125,0.0583333333333333,0.0916666666666666,31912.498390942783,0.0820296804589644,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+437,0.0333333333333333,0.075,0.025,0.9833333333333332,10315.677268780835,0.1236112556745199,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+438,0.025,0.15,0.0,0.9833333333333332,9010.536424686892,0.1319945912601906,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+439,0.0166666666666666,0.0166666666666666,0.0,0.9916666666666668,4874.776751479026,0.1118716686881561,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+440,0.8416666666666667,0.0083333333333333,0.0083333333333333,0.0416666666666666,234853.75063323512,0.546744236121062,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+441,0.0,0.0083333333333333,0.0083333333333333,0.975,113.22475316455694,0.0968069169929748,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+442,0.8166666666666667,0.0083333333333333,0.0083333333333333,0.975,227881.25976551024,0.6239408174010859,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+443,0.6166666666666667,0.0083333333333333,0.0166666666666666,0.9833333333333332,172101.3328237113,0.4940134676412763,2,Trade-In Shoppers,Accessory Upsell,VIP Perks (0% off),0.0
+444,0.0166666666666666,0.0083333333333333,0.0083333333333333,0.0416666666666666,4761.551998314469,0.0142314183618478,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+445,0.0,0.1333333333333333,0.0,0.9666666666666668,1811.596050632911,0.1122440052209314,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+446,0.075,0.0166666666666666,0.0333333333333333,0.0333333333333333,21143.92210950372,0.0470240901458783,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+447,0.0166666666666666,0.0083333333333333,0.0,1.0,4761.551998314469,0.1117314183618479,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+448,0.025,0.0,0.1,0.9583333333333334,6972.490867724868,0.0919700853866428,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+449,0.0,0.0666666666666666,0.8833333333333333,0.9916666666666668,905.7980253164556,-0.0697113307228676,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+450,0.05,0.05,0.0583333333333333,0.9333333333333332,14624.330254437078,0.1197816727311349,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+451,0.0083333333333333,0.0,0.0333333333333333,1.0,2324.163622574956,0.0987122506844365,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+452,0.0083333333333333,0.0083333333333333,0.0,0.9916666666666668,2437.388375739513,0.1055191676774113,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+453,0.05,0.1,0.0083333333333333,0.9916666666666668,15303.67877342442,0.1414565080223176,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+454,0.0083333333333333,0.9083333333333332,0.0083333333333333,0.0166666666666666,14665.661717511664,0.1114995362520317,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+455,0.0416666666666666,0.0416666666666666,0.025,1.0,12186.941878697562,0.1267625050537236,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+456,0.0166666666666666,0.025,0.075,0.9916666666666668,4988.001504643582,0.0978452523477976,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+457,0.0,0.6666666666666666,0.05,0.975,9057.980253164556,0.1653866927713237,3,Potential New Buyers,Service Appointment,Accessory Bundle (~2% value),0.02
+458,0.0,0.0,0.0,0.9833333333333332,0.0,0.0983333333333333,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+459,0.0083333333333333,0.0,0.0,0.125,2324.163622574956,0.0178789173511031,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+460,0.0166666666666666,0.025,0.05,0.9916666666666668,4988.001504643582,0.1028452523477976,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+461,0.025,0.925,0.025,1.0,19540.438468990687,0.2192045382735212,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+462,0.0083333333333333,0.0333333333333333,0.0,0.975,2777.062635233184,0.1067732519896693,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+463,0.0166666666666666,0.0166666666666666,0.0166666666666666,0.05,4874.776751479026,0.0143716686881561,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+464,0.0083333333333333,0.0166666666666666,0.0,0.0666666666666666,2550.613128904069,0.0139927513370529,3,Potential New Buyers,Nurture Email,Referral Voucher,0.0
+465,0.0083333333333333,0.0083333333333333,0.0083333333333333,0.9916666666666668,2437.388375739513,0.1038525010107447,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+466,0.025,0.025,0.8333333333333334,0.9583333333333334,7312.165127218539,-0.0517758303010991,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+467,0.0416666666666666,0.025,0.0166666666666666,0.9416666666666668,11960.49237236845,0.1206486710677738,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+468,0.0416666666666666,0.0333333333333333,0.0333333333333333,0.075,12073.717125533009,0.0316222547274153,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+469,0.0333333333333333,0.0416666666666666,0.0416666666666666,0.0666666666666666,9862.778256122609,0.0247169210359537,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+470,0.0,0.0,0.0,1.0,0.0,0.1,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+471,0.0083333333333333,0.0,0.0083333333333333,0.9916666666666668,2324.163622574956,0.1028789173511031,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+472,0.0416666666666666,0.675,0.0,0.05,20792.02311920389,0.1107548631864811,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+473,0.075,0.0,0.8416666666666667,0.9833333333333332,20917.472603174603,-0.0215897438400714,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+474,0.0333333333333333,0.0166666666666666,0.6583333333333333,0.0333333333333333,9523.103996628935,-0.1048704966096375,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+475,0.0,0.0083333333333333,0.025,0.975,113.22475316455694,0.0934735836596415,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+476,0.0166666666666666,0.0083333333333333,0.0166666666666666,0.9833333333333332,4761.551998314469,0.1067314183618479,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+477,0.0416666666666666,0.85,0.8666666666666667,0.9916666666666668,23169.742935659586,0.0520334533722869,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+478,0.0083333333333333,0.0166666666666666,0.0083333333333333,0.9916666666666668,2550.613128904069,0.1048260846703862,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+479,0.025,0.0333333333333333,0.0083333333333333,0.9833333333333332,7425.389880383095,0.1166977533585423,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+480,0.0,0.0,0.0,0.9916666666666668,0.0,0.0991666666666666,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+481,0.0416666666666666,0.0166666666666666,0.6583333333333333,0.0,11847.267619203893,-0.1028249125918677,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+482,0.0,0.0083333333333333,0.0833333333333333,1.0,113.22475316455694,0.0843069169929748,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+483,0.0916666666666666,0.025,0.0083333333333333,1.0,25905.474107818183,0.1604221751743928,0,High-Value Buyers,Accessory Upsell,3% Vehicle Discount / Free Service Pack,0.03
+484,0.0333333333333333,0.0166666666666666,0.0166666666666666,0.0166666666666666,9523.103996628935,0.0217961700570291,3,Potential New Buyers,Nurture Email,Accessory Bundle (~2% value),0.02
+485,0.0333333333333333,0.1416666666666666,0.6583333333333333,0.9083333333333332,11221.47529409729,-0.0027667417150143,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+486,0.0583333333333333,0.0666666666666666,0.0166666666666666,0.05,17174.943383341146,0.0471077574015212,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
+487,0.0,0.0,0.0083333333333333,1.0,0.0,0.0983333333333333,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+488,0.8083333333333333,0.0583333333333333,0.0,0.9833333333333332,226236.44466192264,0.6269034020078319,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+489,0.0166666666666666,0.05,0.0,0.95,5327.675764137253,0.1115993366600556,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+490,0.0,0.0083333333333333,0.1166666666666666,0.9833333333333332,113.22475316455694,0.0759735836596415,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+491,0.0166666666666666,0.1416666666666666,0.0583333333333333,0.9916666666666668,6573.14804894738,0.1148087569161126,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+492,0.05,0.8916666666666667,0.0,0.9583333333333334,26060.03032405733,0.2322802890215979,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+493,0.7833333333333333,0.8416666666666667,0.6916666666666667,0.0166666666666666,229907.0805916661,0.4672835139608278,1,Service-Only,New-Car Promo,VIP Perks (0% off),0.0
+494,0.0083333333333333,0.0166666666666666,0.0916666666666666,1.0,2550.613128904069,0.0889927513370529,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+495,0.0083333333333333,0.025,0.05,0.9833333333333332,2663.837882068626,0.0966330016633611,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+496,0.0,0.0,0.0083333333333333,0.9416666666666668,0.0,0.0925,3,Potential New Buyers,Accessory Upsell,Referral Voucher,0.0
+497,0.0166666666666666,0.1666666666666666,0.0,0.9833333333333332,6912.82230844105,0.1285628412283706,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+498,0.0333333333333333,0.0333333333333333,0.0,0.9916666666666668,9749.553502958051,0.1245766707096455,3,Potential New Buyers,Accessory Upsell,Accessory Bundle (~2% value),0.02
+499,0.0583333333333333,0.8666666666666667,0.2583333333333333,0.9916666666666668,28044.51968713861,0.186405122060443,0,High-Value Buyers,Service Appointment,3% Vehicle Discount / Free Service Pack,0.03
+500,0.1,0.1416666666666666,0.1666666666666666,0.1,29814.78427469694,0.057764597093811,0,High-Value Buyers,Trade-In Offer,3% Vehicle Discount / Free Service Pack,0.03
